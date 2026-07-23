@@ -1,0 +1,8 @@
+httpx
+typer
+pyyaml
+sqlalchemy
+pandas
+vaderSentiment
+tenacity
+rich

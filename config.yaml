@@ -1,0 +1,8 @@
+# Consumer Research Data Pipeline configuration
+
+topics:
+  - OpenAI
+  - Anthropic
+  - Google Gemini
+  - Perplexity
+  - Cursor
