@@ -132,7 +132,8 @@ def crawl(config_path: Path = utils.DEFAULT_CONFIG_PATH) -> int:
 
     total_hits = 0
 
-    with httpx.Client(timeout=REQUEST_TIMEOUT_SECONDS) as client:
+    headers = {"User-Agent": "ConsumerResearchPipeline/1.0 (contact: info@example.com)"}
+    with httpx.Client(headers=headers, timeout=REQUEST_TIMEOUT_SECONDS) as client:
         for topic in topics:
             try:
                 total_hits += crawl_topic(client, topic, hits_per_page, max_pages, delay_seconds, raw_dir)

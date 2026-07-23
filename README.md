@@ -472,6 +472,14 @@ python -m pipeline.evaluator
 python -m pipeline.summarizer
 ```
 
+### Running unit tests
+
+You can run the built-in automated test suite (covering classification rules and database idempotency) using python's built-in `unittest` module:
+
+```bash
+python -m unittest discover tests
+```
+
 ---
 
 ## Sample Outputs
@@ -601,6 +609,7 @@ Positive          0        0         5
 Kept realistic — things that would matter at the next size of problem, not
 speculative features:
 
+- **A minimal automated test suite** — *Completed!* Implemented under `tests/test_pipeline.py` using Python's standard `unittest` library (keeping dependencies minimal). It verifies sentiment classification, category keyword rules, and SQLite insertion/update idempotency.
 - **Batch DB writes** (`executemany`) once record volume grows past what a
   per-row loop comfortably handles, with a coarser "N inserted / M skipped"
   log line replacing the current per-record one.
@@ -611,10 +620,6 @@ speculative features:
   schema, so "top discussions" ranks by engagement instead of recency.
 - **Stratify the evaluation sample by predicted class**, not just by topic,
   so rare categories reliably get coverage in the 25-record sample.
-- **A minimal automated test suite** under `tests/` (currently an empty,
-  reserved directory) — unit tests for the keyword-rule categorizer and the
-  idempotency of `insert_records`/`update_classification` would be the
-  highest-value first tests.
 
 Explicitly **not** planned, per `ARCHITECTURE.md`'s own scope boundary:
 FastAPI, Docker, a database beyond SQLite, LLM-based classification, or

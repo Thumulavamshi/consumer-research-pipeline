@@ -38,8 +38,23 @@ mentions_table = Table(
 )
 
 
+_engines: Dict[Path, Engine] = {}
+
+
 def _get_engine(db_path: Path = DEFAULT_DB_PATH) -> Engine:
-    return create_engine(f"sqlite:///{db_path}")
+    resolved_path = Path(db_path).resolve()
+    if resolved_path not in _engines:
+        _engines[resolved_path] = create_engine(f"sqlite:///{resolved_path}")
+    return _engines[resolved_path]
+
+
+def dispose_engine(db_path: Path = DEFAULT_DB_PATH) -> None:
+    """Dispose of the connection pool for a specific database path and remove it from cache."""
+    resolved_path = Path(db_path).resolve()
+    if resolved_path in _engines:
+        _engines[resolved_path].dispose()
+        del _engines[resolved_path]
+        logger.info("Disposed engine for '%s'", resolved_path)
 
 
 def initialize(db_path: Path = DEFAULT_DB_PATH) -> None:
