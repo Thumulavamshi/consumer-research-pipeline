@@ -1,0 +1,1328 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "alvatech"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> CEO offers AI company's services to replace striking NYT staff"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://techcrunch.com/2024/11/04/<em>perplexity</em>-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_alvatech",
+        "story_42046295"
+      ],
+      "author": "alvatech",
+      "children": [
+        42046423,
+        42046426,
+        42046468,
+        42046501,
+        42046566,
+        42046592,
+        42046748,
+        42046756,
+        42046757,
+        42046774,
+        42046779,
+        42046806,
+        42046807,
+        42046812,
+        42046816,
+        42046822,
+        42046857,
+        42046978,
+        42047706,
+        42048540
+      ],
+      "created_at": "2024-11-04T21:46:36Z",
+      "created_at_i": 1730756796,
+      "num_comments": 64,
+      "objectID": "42046295",
+      "points": 83,
+      "story_id": 42046295,
+      "title": "Perplexity CEO offers AI company's services to replace striking NYT staff",
+      "updated_at": "2025-01-19T06:15:11Z",
+      "url": "https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "CrankyBear"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> AI's new tool for researching the stock market"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.zdnet.com/article/<em>perplexity</em>-ais-new-tool-makes-researching-the-stock-market-delightful-heres-how/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_CrankyBear",
+        "story_41906949"
+      ],
+      "author": "CrankyBear",
+      "children": [
+        41907248,
+        41907295,
+        41907612,
+        41907677,
+        41908025,
+        41908444,
+        41908518,
+        41909095,
+        41917398
+      ],
+      "created_at": "2024-10-21T18:30:08Z",
+      "created_at_i": 1729535408,
+      "num_comments": 43,
+      "objectID": "41906949",
+      "points": 74,
+      "story_id": 41906949,
+      "title": "Perplexity AI's new tool for researching the stock market",
+      "updated_at": "2025-11-20T18:42:29Z",
+      "url": "https://www.zdnet.com/article/perplexity-ais-new-tool-makes-researching-the-stock-market-delightful-heres-how/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "coloneltcb"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> is a bullshit machine"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.wired.com/story/<em>perplexity</em>-is-a-bullshit-machine/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_coloneltcb",
+        "story_40728732"
+      ],
+      "author": "coloneltcb",
+      "children": [
+        40728925,
+        40728934,
+        40728950,
+        40728955,
+        40728971,
+        40729002,
+        40729036,
+        40729043,
+        40729051,
+        40729061,
+        40729118,
+        40729151,
+        40732849,
+        40855920
+      ],
+      "created_at": "2024-06-19T14:37:54Z",
+      "created_at_i": 1718807874,
+      "num_comments": 45,
+      "objectID": "40728732",
+      "points": 70,
+      "story_id": 40728732,
+      "title": "Perplexity is a bullshit machine",
+      "updated_at": "2025-10-24T13:21:49Z",
+      "url": "https://www.wired.com/story/perplexity-is-a-bullshit-machine/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "gniting"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> launches Comet, an AI-powered web browser"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://techcrunch.com/2025/07/09/<em>perplexity</em>-launches-comet-an-ai-powered-web-browser/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_gniting",
+        "story_44510913"
+      ],
+      "author": "gniting",
+      "children": [
+        44522999,
+        44523009,
+        44523201,
+        44523226,
+        44523228,
+        44523509,
+        44523525,
+        44523564,
+        44523766,
+        44523838,
+        44523903,
+        44523906,
+        44524201,
+        44524308,
+        44524309,
+        44524340,
+        44524599,
+        44526777,
+        44536688
+      ],
+      "created_at": "2025-07-09T15:05:50Z",
+      "created_at_i": 1752073550,
+      "num_comments": 73,
+      "objectID": "44510913",
+      "points": 68,
+      "story_id": 44510913,
+      "title": "Perplexity launches Comet, an AI-powered web browser",
+      "updated_at": "2025-10-04T13:42:08Z",
+      "url": "https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Tokumei-no-hito"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> Response to Cloudflare"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://twitter.com/<em>perplexity</em>_ai/status/1952531537385456019"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Tokumei-no-hito",
+        "story_44793772"
+      ],
+      "author": "Tokumei-no-hito",
+      "children": [
+        44793789,
+        44794004,
+        44794193,
+        44794309,
+        44794531,
+        44794650,
+        44794733,
+        44794821,
+        44794946,
+        44795426,
+        44795508,
+        44797939,
+        44800046
+      ],
+      "created_at": "2025-08-05T02:42:09Z",
+      "created_at_i": 1754361729,
+      "num_comments": 45,
+      "objectID": "44793772",
+      "points": 56,
+      "story_id": 44793772,
+      "title": "Perplexity Response to Cloudflare",
+      "updated_at": "2025-10-25T03:20:06Z",
+      "url": "https://twitter.com/perplexity_ai/status/1952531537385456019"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "JumpCrisscross"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Apple executives have held internal talks about buying <em>Perplexity</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.bloomberg.com/news/articles/2025-06-20/apple-executives-have-held-internal-talks-about-buying-ai-startup-<em>perplexity</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_JumpCrisscross",
+        "story_44334958"
+      ],
+      "author": "JumpCrisscross",
+      "children": [
+        44335053,
+        44335074,
+        44335354,
+        44335408,
+        44336119,
+        44336613,
+        44336658,
+        44337122,
+        44342205,
+        44345387,
+        44349489,
+        44355134,
+        44355925
+      ],
+      "created_at": "2025-06-21T06:06:24Z",
+      "created_at_i": 1750485984,
+      "num_comments": 33,
+      "objectID": "44334958",
+      "points": 54,
+      "story_id": 44334958,
+      "title": "Apple executives have held internal talks about buying Perplexity",
+      "updated_at": "2025-09-06T18:28:50Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-20/apple-executives-have-held-internal-talks-about-buying-ai-startup-perplexity"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "impish9208"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> CEO offers to replace striking NYT staff with AI"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://techcrunch.com/2024/11/04/<em>perplexity</em>-ceo-offers-to-replace-striking-nyt-staff-with-ai/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_impish9208",
+        "story_42044956"
+      ],
+      "author": "impish9208",
+      "children": [
+        42045015,
+        42045021,
+        42045024,
+        42045027,
+        42045098,
+        42045151,
+        42045298,
+        42045305,
+        42045417,
+        42045534,
+        42046478,
+        42046578,
+        42046591,
+        42047046,
+        42048359,
+        42054708
+      ],
+      "created_at": "2024-11-04T19:05:50Z",
+      "created_at_i": 1730747150,
+      "num_comments": 34,
+      "objectID": "42044956",
+      "points": 46,
+      "story_id": 42044956,
+      "title": "Perplexity CEO offers to replace striking NYT staff with AI",
+      "updated_at": "2026-02-18T07:06:12Z",
+      "url": "https://techcrunch.com/2024/11/04/perplexity-ceo-offers-to-replace-striking-nyt-staff-with-ai/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "birriel"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> Comet"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://comet.<em>perplexity</em>.ai/?a=b"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_birriel",
+        "story_44513769"
+      ],
+      "author": "birriel",
+      "children": [
+        44513832,
+        44513906,
+        44513910,
+        44513916,
+        44513927,
+        44513929,
+        44513934,
+        44513994,
+        44514004,
+        44514042,
+        44514060,
+        44514079,
+        44514173,
+        44514177,
+        44514347,
+        44514365,
+        44514378,
+        44514590,
+        44514745,
+        44514871,
+        44516320,
+        44517442,
+        44520783,
+        44527972
+      ],
+      "created_at": "2025-07-09T19:14:02Z",
+      "created_at_i": 1752088442,
+      "num_comments": 55,
+      "objectID": "44513769",
+      "points": 43,
+      "story_id": 44513769,
+      "title": "Perplexity Comet",
+      "updated_at": "2026-01-04T14:42:05Z",
+      "url": "https://comet.perplexity.ai/?a=b"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "latexr"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em>'s grand theft AI"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.theverge.com/2024/6/27/24187405/<em>perplexity</em>-ai-twitter-lie-plagiarism"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_latexr",
+        "story_40819628"
+      ],
+      "author": "latexr",
+      "children": [
+        40819778,
+        40819800,
+        40819846,
+        40819848,
+        40819862,
+        40819914,
+        40819938,
+        40819955,
+        40820008,
+        40820114,
+        40820155,
+        40820696
+      ],
+      "created_at": "2024-06-28T11:37:42Z",
+      "created_at_i": 1719574662,
+      "num_comments": 50,
+      "objectID": "40819628",
+      "points": 41,
+      "story_id": 40819628,
+      "title": "Perplexity's grand theft AI",
+      "updated_at": "2025-08-14T22:36:45Z",
+      "url": "https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "healsdata"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> CEO says browser will track everything users do online to sell ads"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://techcrunch.com/2025/04/24/<em>perplexity</em>-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_healsdata",
+        "story_43788989"
+      ],
+      "author": "healsdata",
+      "children": [
+        43789104,
+        43789320,
+        43789724,
+        43789923
+      ],
+      "created_at": "2025-04-25T00:28:03Z",
+      "created_at_i": 1745540883,
+      "num_comments": 3,
+      "objectID": "43788989",
+      "points": 39,
+      "story_id": 43788989,
+      "title": "Perplexity CEO says browser will track everything users do online to sell ads",
+      "updated_at": "2025-05-19T14:39:17Z",
+      "url": "https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rntn"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Opinion: <em>Perplexity</em> offers several advantages over Google as a search engine"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.theregister.com/2024/12/16/opinion_column_<em>perplexity</em>_vs_google/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rntn",
+        "story_42432155"
+      ],
+      "author": "rntn",
+      "children": [
+        42432242,
+        42432400,
+        42432406,
+        42432419,
+        42432433,
+        42432463,
+        42432480,
+        42432495,
+        42432589,
+        42432626,
+        42432642,
+        42432650,
+        42432693,
+        42432746,
+        42432750,
+        42432785,
+        42432810
+      ],
+      "created_at": "2024-12-16T15:53:24Z",
+      "created_at_i": 1734364404,
+      "num_comments": 46,
+      "objectID": "42432155",
+      "points": 36,
+      "story_id": 42432155,
+      "title": "Opinion: Perplexity offers several advantages over Google as a search engine",
+      "updated_at": "2025-10-06T20:26:44Z",
+      "url": "https://www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "RobinL"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Comet Browser by <em>Perplexity</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://comet.<em>perplexity</em>.ai/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_RobinL",
+        "story_44511527"
+      ],
+      "author": "RobinL",
+      "children": [
+        44511577,
+        44513882,
+        44514561,
+        44514642,
+        44514678,
+        44514744,
+        44515019,
+        44516116,
+        44516529,
+        44530401,
+        44541497
+      ],
+      "created_at": "2025-07-09T15:48:57Z",
+      "created_at_i": 1752076137,
+      "num_comments": 19,
+      "objectID": "44511527",
+      "points": 36,
+      "story_id": 44511527,
+      "title": "Comet Browser by Perplexity",
+      "updated_at": "2025-08-03T11:04:25Z",
+      "url": "https://comet.perplexity.ai/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "staranjeet"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Hey HN! We're Deshraj and Taranjeet. We've been building working on a startup called Mem0, building an open-source memory layer for AI apps and agents (<a href=\"https://news.ycombinator.com/item?id=41447317\">https://news.ycombinator.com/item?id=41447317</a>). We also kept running into our own daily frustrations with AI assistants forgetting everything between conversations. Over a weekend, we decided to hack together a Chrome extension to solve this for ourselves.<p>The problem was simple: we were constantly re-explaining our context across platforms when switching between ChatGPT, Claude, and <em>Perplexity</em>. Start a coding discussion in ChatGPT, switch to Claude for a different perspective, jump to <em>Perplexity</em> for research—you're starting from scratch each time. We thought others might find this useful too, so we're sharing it with the HN community.<p>Our solution is built on our unified memory layer that works across multiple LLMs, accessible through a simple Chrome extension. Here’s a quick demo of how it works: <a href=\"https://youtu.be/cByzXztn-YY\" rel=\"nofollow\">https://youtu.be/cByzXztn-YY</a><p>The key features include<p>- Cross-LLM Memory: Start a conversation in ChatGPT, then continue in Claude or <em>Perplexity</em> without losing your context. This makes it easy to switch between models while maintaining coherence in your interactions.<p>- Customizable Control: Our dashboard lets you manage memories directly—you can add, edit, or delete memories, ensuring that your context stays relevant and accurate across all your LLM interactions.<p>- Sync with ChatGPT Memories: If you've been using ChatGPT's memory feature, Mem0 can sync with it, creating a consistent experience across your preferred LLMs.<p>We use a hybrid data architecture that combines graph, vector, and key-value stores to manage memories. This setup enables efficient memory retrieval based on relevance, recency, and context, ensuring your interactions remain meaningful across all apps.<p>The Chrome extension is MIT licensed and available on GitHub. Currently, it uses our hosted version of Mem0 for simplicity and stability. But we plan to add support for self-hosting using the open-source version of Mem0.<p>Try it out:<p>- Extension: <a href=\"https://mem0.dev/extension\" rel=\"nofollow\">https://mem0.dev/extension</a>\n- Source code: <a href=\"https://github.com/mem0ai/mem0-chrome-extension\">https://github.com/mem0ai/mem0-chrome-extension</a><p>We'd love to hear any feedback and suggestions!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Show HN: Mem0 Browser Extension: Shared Memory Across ChatGPT,Claude,<em>Perplexity</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/mem0ai/mem0-chrome-extension"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_staranjeet",
+        "story_42042401",
+        "show_hn"
+      ],
+      "author": "staranjeet",
+      "children": [
+        42042987,
+        42046292,
+        42051024,
+        42067192
+      ],
+      "created_at": "2024-11-04T15:27:54Z",
+      "created_at_i": 1730734074,
+      "num_comments": 4,
+      "objectID": "42042401",
+      "points": 34,
+      "story_id": 42042401,
+      "story_text": "Hey HN! We&#x27;re Deshraj and Taranjeet. We&#x27;ve been building working on a startup called Mem0, building an open-source memory layer for AI apps and agents (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=41447317\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=41447317</a>). We also kept running into our own daily frustrations with AI assistants forgetting everything between conversations. Over a weekend, we decided to hack together a Chrome extension to solve this for ourselves.<p>The problem was simple: we were constantly re-explaining our context across platforms when switching between ChatGPT, Claude, and Perplexity. Start a coding discussion in ChatGPT, switch to Claude for a different perspective, jump to Perplexity for research—you&#x27;re starting from scratch each time. We thought others might find this useful too, so we&#x27;re sharing it with the HN community.<p>Our solution is built on our unified memory layer that works across multiple LLMs, accessible through a simple Chrome extension. Here’s a quick demo of how it works: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;cByzXztn-YY\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;cByzXztn-YY</a><p>The key features include<p>- Cross-LLM Memory: Start a conversation in ChatGPT, then continue in Claude or Perplexity without losing your context. This makes it easy to switch between models while maintaining coherence in your interactions.<p>- Customizable Control: Our dashboard lets you manage memories directly—you can add, edit, or delete memories, ensuring that your context stays relevant and accurate across all your LLM interactions.<p>- Sync with ChatGPT Memories: If you&#x27;ve been using ChatGPT&#x27;s memory feature, Mem0 can sync with it, creating a consistent experience across your preferred LLMs.<p>We use a hybrid data architecture that combines graph, vector, and key-value stores to manage memories. This setup enables efficient memory retrieval based on relevance, recency, and context, ensuring your interactions remain meaningful across all apps.<p>The Chrome extension is MIT licensed and available on GitHub. Currently, it uses our hosted version of Mem0 for simplicity and stability. But we plan to add support for self-hosting using the open-source version of Mem0.<p>Try it out:<p>- Extension: <a href=\"https:&#x2F;&#x2F;mem0.dev&#x2F;extension\" rel=\"nofollow\">https:&#x2F;&#x2F;mem0.dev&#x2F;extension</a>\n- Source code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;mem0ai&#x2F;mem0-chrome-extension\">https:&#x2F;&#x2F;github.com&#x2F;mem0ai&#x2F;mem0-chrome-extension</a><p>We&#x27;d love to hear any feedback and suggestions!",
+      "title": "Show HN: Mem0 Browser Extension: Shared Memory Across ChatGPT,Claude,Perplexity",
+      "updated_at": "2024-11-12T23:49:41Z",
+      "url": "https://github.com/mem0ai/mem0-chrome-extension"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "avivallssa"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Open-Source <em>Perplexity</em> – Omniplex"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/Omniplex-ai/omniplex"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_avivallssa",
+        "story_40836564"
+      ],
+      "author": "avivallssa",
+      "children": [
+        40838447
+      ],
+      "created_at": "2024-06-30T11:19:26Z",
+      "created_at_i": 1719746366,
+      "num_comments": 3,
+      "objectID": "40836564",
+      "points": 30,
+      "story_id": 40836564,
+      "title": "Open-Source Perplexity – Omniplex",
+      "updated_at": "2024-09-20T17:22:03Z",
+      "url": "https://github.com/Omniplex-ai/omniplex"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "SilverElfin"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Amazon wins court order to block <em>Perplexity</em>'s AI shopping agent"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-<em>perplexity</em>s-ai-shopping-agent.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_SilverElfin",
+        "story_47327309"
+      ],
+      "author": "SilverElfin",
+      "children": [
+        47327330,
+        47327831,
+        47329105,
+        47331162,
+        47441402
+      ],
+      "created_at": "2026-03-10T18:49:59Z",
+      "created_at_i": 1773168599,
+      "num_comments": 10,
+      "objectID": "47327309",
+      "points": 29,
+      "story_id": 47327309,
+      "title": "Amazon wins court order to block Perplexity's AI shopping agent",
+      "updated_at": "2026-03-23T06:24:19Z",
+      "url": "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mfkhalil"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Hey HN,<p>I've been using LLM-powered search engines like <em>Perplexity</em> a lot recently for question answering but had two major qualms:<p>1. Too much text: I'm already tired of wading through LLM-generated meaningless filler when debugging my code. The last thing I need is more of it when I'm just trying to find a simple answer.<p>2. The Reddit factor: I've realized that half my search queries have &quot;Reddit&quot; appended to them, especially for experiential questions or recommendations.<p>This led to Just the Answer. Just the Answer uses GPT-4o to generate a unique search query for each message that is sent, combining your past messages, the current date &amp; time (if relevant), and your most recent message. It then uses serper.dev to run a search for the query, and then if GPT determines that the query is asking about a subjective experience, it runs a parallel one with &quot;reddit&quot; appended and prioritizes those results. Both searches are then condensed into as few words as necessary to get what I need. The search query can be accessed via the link icon on the right of each answer, and the chosen sources can be seen by expanding the answer. This is all served via a NextJS frontend.<p>In theory, as few words as possible sounded great. In practice however, this meant that I was sometimes left wanting slightly more information, so I added the ability to select follow-up questions and dig deeper into important keywords in the answer just by clicking on them.<p>Since building this, I've found myself using it more than <em>Perplexity</em>, especially for outing and content recommendations due to the Reddit factor. The Wikipedia-style hyperlink feature has also been enjoyable, as it allows me to build my own personal detailed answer based on my choices rather than just be given an essay from one question—I read, select, read, select, and so on.<p>One thing I'd like to add is a built-in traditional browser interface that can be opened if needed since it's a pain having to leave the page if you want to access more search results. This would streamline the experience and keep everything in one place.<p>I'd love to hear your thoughts!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Show HN: <em>Perplexity</em> Without the Filler"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://justtheanswer.vercel.app/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mfkhalil",
+        "story_40919201",
+        "show_hn"
+      ],
+      "author": "mfkhalil",
+      "children": [
+        40928275,
+        40929619,
+        40933226,
+        40934790,
+        40939197,
+        40939566
+      ],
+      "created_at": "2024-07-09T18:19:40Z",
+      "created_at_i": 1720549180,
+      "num_comments": 6,
+      "objectID": "40919201",
+      "points": 29,
+      "story_id": 40919201,
+      "story_text": "Hey HN,<p>I&#x27;ve been using LLM-powered search engines like Perplexity a lot recently for question answering but had two major qualms:<p>1. Too much text: I&#x27;m already tired of wading through LLM-generated meaningless filler when debugging my code. The last thing I need is more of it when I&#x27;m just trying to find a simple answer.<p>2. The Reddit factor: I&#x27;ve realized that half my search queries have &quot;Reddit&quot; appended to them, especially for experiential questions or recommendations.<p>This led to Just the Answer. Just the Answer uses GPT-4o to generate a unique search query for each message that is sent, combining your past messages, the current date &amp; time (if relevant), and your most recent message. It then uses serper.dev to run a search for the query, and then if GPT determines that the query is asking about a subjective experience, it runs a parallel one with &quot;reddit&quot; appended and prioritizes those results. Both searches are then condensed into as few words as necessary to get what I need. The search query can be accessed via the link icon on the right of each answer, and the chosen sources can be seen by expanding the answer. This is all served via a NextJS frontend.<p>In theory, as few words as possible sounded great. In practice however, this meant that I was sometimes left wanting slightly more information, so I added the ability to select follow-up questions and dig deeper into important keywords in the answer just by clicking on them.<p>Since building this, I&#x27;ve found myself using it more than Perplexity, especially for outing and content recommendations due to the Reddit factor. The Wikipedia-style hyperlink feature has also been enjoyable, as it allows me to build my own personal detailed answer based on my choices rather than just be given an essay from one question—I read, select, read, select, and so on.<p>One thing I&#x27;d like to add is a built-in traditional browser interface that can be opened if needed since it&#x27;s a pain having to leave the page if you want to access more search results. This would streamline the experience and keep everything in one place.<p>I&#x27;d love to hear your thoughts!",
+      "title": "Show HN: Perplexity Without the Filler",
+      "updated_at": "2024-09-20T17:23:28Z",
+      "url": "https://justtheanswer.vercel.app/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "erhuve"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Amazon sends legal threats to <em>Perplexity</em> over agentic browsing"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-<em>perplexity</em>-over-agentic-browsing/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_erhuve",
+        "story_45817032"
+      ],
+      "author": "erhuve",
+      "children": [
+        45817443,
+        45817819,
+        45818076,
+        45818578
+      ],
+      "created_at": "2025-11-04T23:19:31Z",
+      "created_at_i": 1762298371,
+      "num_comments": 7,
+      "objectID": "45817032",
+      "points": 28,
+      "story_id": 45817032,
+      "title": "Amazon sends legal threats to Perplexity over agentic browsing",
+      "updated_at": "2026-03-05T22:57:09Z",
+      "url": "https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ncvgl"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "I built PolyGPT to solve a problem I had: constantly tab-switching between ChatGPT, Claude, and Gemini to\n  compare their responses.<p><pre><code>  It's a desktop app (Mac/Windows/Linux) that lets you type a prompt once and see all three AI models respond\n  simultaneously in a split view. Useful for:\n  - Comparing technical explanations\n  - Getting multiple perspectives on code problems\n  - Fact-checking answers across models\n\n  The app is free, open source, and runs locally - your credentials stay on your machine.\n\n  Download: https://polygpt.app\n  Source: https://github.com/ncvgl/polygpt\n\n  Would love feedback from the HN community. What other features would make this more useful?</code></pre>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Show HN: PolyGPT – ChatGPT, Claude, Gemini, <em>Perplexity</em> responses side-by-side"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://polygpt.app"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ncvgl",
+        "story_46013984",
+        "show_hn"
+      ],
+      "author": "ncvgl",
+      "children": [
+        46014166,
+        46016122,
+        46016372,
+        46017751,
+        46017828,
+        46020981,
+        46026522,
+        46062866
+      ],
+      "created_at": "2025-11-22T11:36:31Z",
+      "created_at_i": 1763811391,
+      "num_comments": 24,
+      "objectID": "46013984",
+      "points": 26,
+      "story_id": 46013984,
+      "story_text": "I built PolyGPT to solve a problem I had: constantly tab-switching between ChatGPT, Claude, and Gemini to\n  compare their responses.<p><pre><code>  It&#x27;s a desktop app (Mac&#x2F;Windows&#x2F;Linux) that lets you type a prompt once and see all three AI models respond\n  simultaneously in a split view. Useful for:\n  - Comparing technical explanations\n  - Getting multiple perspectives on code problems\n  - Fact-checking answers across models\n\n  The app is free, open source, and runs locally - your credentials stay on your machine.\n\n  Download: https:&#x2F;&#x2F;polygpt.app\n  Source: https:&#x2F;&#x2F;github.com&#x2F;ncvgl&#x2F;polygpt\n\n  Would love feedback from the HN community. What other features would make this more useful?</code></pre>",
+      "title": "Show HN: PolyGPT – ChatGPT, Claude, Gemini, Perplexity responses side-by-side",
+      "updated_at": "2026-03-22T20:37:33Z",
+      "url": "https://polygpt.app"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "asterave"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> made up fake data and then used it to answer my question"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.asterave.com/blog/rag-gone-wrong"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_asterave",
+        "story_42218728"
+      ],
+      "author": "asterave",
+      "children": [
+        42218730,
+        42219350
+      ],
+      "created_at": "2024-11-23T02:03:04Z",
+      "created_at_i": 1732327384,
+      "num_comments": 2,
+      "objectID": "42218728",
+      "points": 26,
+      "story_id": 42218728,
+      "title": "Perplexity made up fake data and then used it to answer my question",
+      "updated_at": "2024-11-23T20:47:22Z",
+      "url": "https://www.asterave.com/blog/rag-gone-wrong"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "RattlesnakeJake"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> low-balls Google with $34.5B offer for Chrome"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://arstechnica.com/gadgets/2025/08/<em>perplexity</em>-offers-more-than-twice-its-total-valuation-to-buy-chrome-from-google/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_RattlesnakeJake",
+        "story_44880352"
+      ],
+      "author": "RattlesnakeJake",
+      "children": [
+        44881147,
+        44881263,
+        44881407,
+        44881483,
+        44882906
+      ],
+      "created_at": "2025-08-12T18:52:32Z",
+      "created_at_i": 1755024752,
+      "num_comments": 6,
+      "objectID": "44880352",
+      "points": 21,
+      "story_id": 44880352,
+      "title": "Perplexity low-balls Google with $34.5B offer for Chrome",
+      "updated_at": "2026-03-05T22:34:19Z",
+      "url": "https://arstechnica.com/gadgets/2025/08/perplexity-offers-more-than-twice-its-total-valuation-to-buy-chrome-from-google/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "MindBreaker2605"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Is <em>Perplexity</em> the first AI unicorn to fail?"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://medium.com/@anwarzaid76/is-<em>perplexity</em>-the-first-ai-unicorn-to-fail-eb0e827b5e7e"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_MindBreaker2605",
+        "story_45944428"
+      ],
+      "author": "MindBreaker2605",
+      "children": [
+        45944784,
+        45944838,
+        45944841,
+        45944857,
+        45944898,
+        45944904,
+        45944921,
+        45944957,
+        45944967
+      ],
+      "created_at": "2025-11-16T11:57:41Z",
+      "created_at_i": 1763294261,
+      "num_comments": 18,
+      "objectID": "45944428",
+      "points": 20,
+      "story_id": 45944428,
+      "title": "Is Perplexity the first AI unicorn to fail?",
+      "updated_at": "2026-07-16T16:44:40Z",
+      "url": "https://medium.com/@anwarzaid76/is-perplexity-the-first-ai-unicorn-to-fail-eb0e827b5e7e"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "camjw"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Read CV Acquired by <em>Perplexity</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://read.cv/a-new-chapter"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_camjw",
+        "story_42742241"
+      ],
+      "author": "camjw",
+      "children": [
+        42742374,
+        42742546,
+        42742670,
+        42742772,
+        42743007,
+        42744215,
+        42745265
+      ],
+      "created_at": "2025-01-17T19:25:16Z",
+      "created_at_i": 1737141916,
+      "num_comments": 12,
+      "objectID": "42742241",
+      "points": 19,
+      "story_id": 42742241,
+      "title": "Read CV Acquired by Perplexity",
+      "updated_at": "2026-01-27T16:59:59Z",
+      "url": "https://read.cv/a-new-chapter"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ororm"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "OpenAI Is Readying a Search Product to Rival Google, <em>Perplexity</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-<em>perplexity</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ororm",
+        "story_40309026"
+      ],
+      "author": "ororm",
+      "children": [
+        40309070,
+        40309071,
+        40309098,
+        40309126,
+        40309294
+      ],
+      "created_at": "2024-05-09T15:10:55Z",
+      "created_at_i": 1715267455,
+      "num_comments": 5,
+      "objectID": "40309026",
+      "points": 18,
+      "story_id": 40309026,
+      "title": "OpenAI Is Readying a Search Product to Rival Google, Perplexity",
+      "updated_at": "2024-09-20T16:59:04Z",
+      "url": "https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-perplexity"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tosh"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "The <em>Perplexity</em> Search API"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.<em>perplexity</em>.ai/hub/blog/introducing-the-<em>perplexity</em>-search-api"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tosh",
+        "story_45376381"
+      ],
+      "author": "tosh",
+      "created_at": "2025-09-25T17:55:29Z",
+      "created_at_i": 1758822929,
+      "num_comments": 0,
+      "objectID": "45376381",
+      "points": 16,
+      "story_id": 45376381,
+      "title": "The Perplexity Search API",
+      "updated_at": "2026-03-21T02:27:40Z",
+      "url": "https://www.perplexity.ai/hub/blog/introducing-the-perplexity-search-api"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ashishgupta2209"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "NY Times sues <em>Perplexity</em> over scraped content and false attribution"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://techoreon.com/nyt-sues-<em>perplexity</em>-ai-copyright-infringement/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ashishgupta2209",
+        "story_46162265"
+      ],
+      "author": "ashishgupta2209",
+      "children": [
+        46162524
+      ],
+      "created_at": "2025-12-05T15:07:52Z",
+      "created_at_i": 1764947272,
+      "num_comments": 1,
+      "objectID": "46162265",
+      "points": 15,
+      "story_id": 46162265,
+      "title": "NY Times sues Perplexity over scraped content and false attribution",
+      "updated_at": "2026-03-05T23:08:12Z",
+      "url": "https://techoreon.com/nyt-sues-perplexity-ai-copyright-infringement/"
+    }
+  ],
+  "hitsPerPage": 25,
+  "nbHits": 1133,
+  "nbPages": 40,
+  "page": 1,
+  "params": "query=Perplexity&tags=story&page=1&hitsPerPage=25&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 9,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 19
+    },
+    "afterFetch": {
+      "format": {
+        "highlighting": 1,
+        "total": 1
+      },
+      "merge": {
+        "mergeLoop": {
+          "prepareNextHit": 1,
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 5,
+      "total": 6
+    },
+    "total": 9
+  },
+  "query": "Perplexity",
+  "serverTimeMS": 11
+}

@@ -1,0 +1,1571 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tosh"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Gemini</em>: <em>Google</em>'s most capable AI model yet"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://blog.<em>google</em>/technology/ai/<em>google</em>-<em>gemini</em>-ai/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tosh",
+        "story_38544746"
+      ],
+      "author": "tosh",
+      "children": [
+        38544979,
+        38549249
+      ],
+      "created_at": "2023-12-06T15:05:18Z",
+      "created_at_i": 1701875118,
+      "num_comments": 2,
+      "objectID": "38544746",
+      "points": 778,
+      "story_id": 38544746,
+      "title": "Gemini: Google's most capable AI model yet",
+      "updated_at": "2024-09-20T15:50:11Z",
+      "url": "https://blog.google/technology/ai/google-gemini-ai/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "unclefuzzy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "Apple reveals new AI architecture built around <em>Google</em> <em>Gemini</em> models"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_unclefuzzy",
+        "story_48450142"
+      ],
+      "author": "unclefuzzy",
+      "children": [
+        48450962,
+        48450972,
+        48451083,
+        48451141,
+        48451180,
+        48451181,
+        48451186,
+        48451217,
+        48451259,
+        48451283,
+        48451496,
+        48451665,
+        48451745,
+        48451809,
+        48451872,
+        48451932,
+        48451995,
+        48452050,
+        48452251,
+        48452554,
+        48452563,
+        48452675,
+        48452726,
+        48453272,
+        48453504,
+        48454575,
+        48455444,
+        48455599,
+        48455664,
+        48455800,
+        48456157,
+        48456238,
+        48456658,
+        48456674,
+        48457058,
+        48457103,
+        48457162,
+        48457228,
+        48457479,
+        48457485,
+        48457527,
+        48457764,
+        48457934,
+        48458083,
+        48459393,
+        48460194,
+        48460198,
+        48460247,
+        48460276,
+        48460570,
+        48460722,
+        48460889,
+        48461016,
+        48462451,
+        48462916,
+        48462934,
+        48463412,
+        48465168,
+        48470621,
+        48473931,
+        48487427,
+        48501837
+      ],
+      "created_at": "2026-06-08T19:14:47Z",
+      "created_at_i": 1780946087,
+      "num_comments": 566,
+      "objectID": "48450142",
+      "points": 738,
+      "story_id": 48450142,
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "updated_at": "2026-07-02T13:21:04Z",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "gregsadetsky"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "Show HN: I Remade the Fake <em>Google</em> <em>Gemini</em> Demo, Except Using GPT-4 and It's Real"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://sagittarius.greg.technology/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_gregsadetsky",
+        "story_38596953",
+        "show_hn"
+      ],
+      "author": "gregsadetsky",
+      "children": [
+        38597200,
+        38597223,
+        38597237,
+        38597247,
+        38597264,
+        38597288,
+        38597289,
+        38597320,
+        38597347,
+        38597350,
+        38597359,
+        38597388,
+        38597522,
+        38597557,
+        38597573,
+        38598732,
+        38599182,
+        38599194,
+        38599566,
+        38599623,
+        38600705,
+        38600768,
+        38608480
+      ],
+      "created_at": "2023-12-11T02:17:39Z",
+      "created_at_i": 1702261059,
+      "num_comments": 113,
+      "objectID": "38596953",
+      "points": 434,
+      "story_id": 38596953,
+      "title": "Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real",
+      "updated_at": "2025-12-14T20:35:08Z",
+      "url": "https://sagittarius.greg.technology/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "thunderbong"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em>'s <em>Gemini</em> AI caught scanning <em>Google</em> Drive PDF files without permission"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://www.tomshardware.com/tech-industry/artificial-intelligence/<em>gemini</em>-ai-caught-scanning-<em>google</em>-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_thunderbong",
+        "story_40965892"
+      ],
+      "author": "thunderbong",
+      "children": [
+        40966109,
+        40966118,
+        40966842,
+        40966857,
+        40966982,
+        40967006,
+        40967035,
+        40967190,
+        40967220,
+        40967290,
+        40967371,
+        40967455,
+        40967617,
+        40967663,
+        40967669,
+        40967674,
+        40967741,
+        40967768,
+        40967778,
+        40967860,
+        40967919,
+        40967923,
+        40967934,
+        40968229,
+        40968251,
+        40968261,
+        40968533,
+        40968589,
+        40969275,
+        40969734,
+        40983232,
+        41002513
+      ],
+      "created_at": "2024-07-15T07:25:38Z",
+      "created_at_i": 1721028338,
+      "num_comments": 147,
+      "objectID": "40965892",
+      "points": 336,
+      "story_id": 40965892,
+      "title": "Google's Gemini AI caught scanning Google Drive PDF files without permission",
+      "updated_at": "2026-04-20T06:30:45Z",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "JakaJancar"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "I caught <em>Google</em> <em>Gemini</em> using my data and then covering it up"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "gemini"
+          ],
+          "value": "https://unbuffered.stream/<em>gemini</em>-personal-context/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_JakaJancar",
+        "story_45960293"
+      ],
+      "author": "JakaJancar",
+      "children": [
+        45960514,
+        45960531,
+        45960533,
+        45960541,
+        45960545,
+        45960575,
+        45960628,
+        45960635,
+        45960664,
+        45960751,
+        45960796,
+        45960802,
+        45960826,
+        45960845,
+        45960861,
+        45960910,
+        45961156,
+        45961469,
+        45961777,
+        45962036,
+        45964016,
+        45964692,
+        45964928,
+        45965648,
+        45965866,
+        45972411
+      ],
+      "created_at": "2025-11-18T01:11:34Z",
+      "created_at_i": 1763428294,
+      "num_comments": 78,
+      "objectID": "45960293",
+      "points": 314,
+      "story_id": 45960293,
+      "title": "I caught Google Gemini using my data and then covering it up",
+      "updated_at": "2026-05-25T09:48:04Z",
+      "url": "https://unbuffered.stream/gemini-personal-context/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "MBCook"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em> <em>Gemini</em> tried to kill me"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://old.reddit.com/r/ChatGPT/comments/1diljf2/<em>google</em>_<em>gemini</em>_tried_to_kill_me/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_MBCook",
+        "story_40724283"
+      ],
+      "author": "MBCook",
+      "children": [
+        40724403,
+        40724449,
+        40724512,
+        40724529,
+        40724530,
+        40724536,
+        40724539,
+        40724541,
+        40724599,
+        40724618,
+        40724671,
+        40724677,
+        40724714,
+        40724715,
+        40724764,
+        40724782,
+        40724792,
+        40724794,
+        40724799,
+        40724807,
+        40724811,
+        40724813,
+        40724828,
+        40724837,
+        40724875,
+        40724922,
+        40724937,
+        40724939,
+        40725307,
+        40725490,
+        40726112,
+        40727202,
+        40733977,
+        40735791
+      ],
+      "created_at": "2024-06-19T02:50:32Z",
+      "created_at_i": 1718765432,
+      "num_comments": 152,
+      "objectID": "40724283",
+      "points": 211,
+      "story_id": 40724283,
+      "title": "Google Gemini tried to kill me",
+      "updated_at": "2026-04-15T00:11:08Z",
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1diljf2/google_gemini_tried_to_kill_me/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "indigodaddy"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em> <em>Gemini</em> has the worst LLM API"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://venki.dev/notes/<em>google</em>-<em>gemini</em>-is-bad"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_indigodaddy",
+        "story_43882905"
+      ],
+      "author": "indigodaddy",
+      "children": [
+        43883074,
+        43883345,
+        43883349,
+        43883354,
+        43883375,
+        43883450,
+        43883464,
+        43883494,
+        43883569,
+        43883598,
+        43883659,
+        43883983,
+        43884945,
+        43884984,
+        43885367,
+        43885536,
+        43885558,
+        43885856,
+        43885901,
+        43886297,
+        43886657,
+        43886785,
+        43886939,
+        43887147,
+        43887864,
+        43889527,
+        43892687,
+        43898675
+      ],
+      "created_at": "2025-05-03T22:29:54Z",
+      "created_at_i": 1746311394,
+      "num_comments": 188,
+      "objectID": "43882905",
+      "points": 203,
+      "story_id": 43882905,
+      "title": "Google Gemini has the worst LLM API",
+      "updated_at": "2026-05-20T18:58:48Z",
+      "url": "https://venki.dev/notes/google-gemini-is-bad"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "sam1234apter"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em> <em>Gemini</em> Pro API Available Through AI Studio"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "google"
+          ],
+          "value": "https://ai.<em>google</em>.dev/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_sam1234apter",
+        "story_38628456"
+      ],
+      "author": "sam1234apter",
+      "children": [
+        38628457,
+        38628634,
+        38628860,
+        38628902,
+        38628940,
+        38629124,
+        38629132,
+        38629136,
+        38629214,
+        38629217,
+        38629223,
+        38629555,
+        38629737,
+        38629862,
+        38629906,
+        38630073,
+        38630099,
+        38630100,
+        38630259,
+        38630278,
+        38630871,
+        38631029,
+        38631169,
+        38631246,
+        38631356,
+        38631593,
+        38633103,
+        38633264,
+        38634748,
+        38634803,
+        38652348,
+        38652350
+      ],
+      "created_at": "2023-12-13T15:09:44Z",
+      "created_at_i": 1702480184,
+      "num_comments": 109,
+      "objectID": "38628456",
+      "points": 185,
+      "story_id": 38628456,
+      "title": "Google Gemini Pro API Available Through AI Studio",
+      "updated_at": "2024-09-20T15:50:32Z",
+      "url": "https://ai.google.dev/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "typeofhuman"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em> <em>Gemini</em> try to generate image of Caucasians"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://twitter.com/IMAO_/status/1760093853430710557"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_typeofhuman",
+        "story_39449890"
+      ],
+      "author": "typeofhuman",
+      "children": [
+        39449910,
+        39449937,
+        39450153,
+        39450164,
+        39450182,
+        39450183,
+        39450397,
+        39450481,
+        39450616,
+        39450671,
+        39459672,
+        39460307,
+        39465607
+      ],
+      "created_at": "2024-02-21T03:41:25Z",
+      "created_at_i": 1708486885,
+      "num_comments": 31,
+      "objectID": "39449890",
+      "points": 110,
+      "story_id": 39449890,
+      "title": "Google Gemini try to generate image of Caucasians",
+      "updated_at": "2026-01-08T08:46:47Z",
+      "url": "https://twitter.com/IMAO_/status/1760093853430710557"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jmsflknr"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "Apple Is in Talks to Let <em>Google</em>'s <em>Gemini</em> Power iPhone Generative AI Features"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-<em>google</em>-<em>gemini</em>-for-iphone-ios-18-generative-ai-tools"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jmsflknr",
+        "story_39740731"
+      ],
+      "author": "jmsflknr",
+      "children": [
+        39740800,
+        39740872,
+        39740880,
+        39740910,
+        39740915,
+        39740940,
+        39740944,
+        39740965,
+        39740977,
+        39740992,
+        39741000,
+        39741013,
+        39741014,
+        39741041,
+        39741398,
+        39743538,
+        39744900,
+        39745195,
+        39745285,
+        39746622,
+        39747201,
+        39750673
+      ],
+      "created_at": "2024-03-18T05:31:14Z",
+      "created_at_i": 1710739874,
+      "num_comments": 123,
+      "objectID": "39740731",
+      "points": 109,
+      "story_id": 39740731,
+      "title": "Apple Is in Talks to Let Google's Gemini Power iPhone Generative AI Features",
+      "updated_at": "2025-09-21T20:52:36Z",
+      "url": "https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "shantnutiwari"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "So <em>Google</em>'s <em>Gemini</em> Doesn't Like Python Programming and Sanskrit?"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://new.pythonforengineers.com/blog/so-evidently/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_shantnutiwari",
+        "story_39504788"
+      ],
+      "author": "shantnutiwari",
+      "children": [
+        39505159,
+        39505273,
+        39505291,
+        39505309,
+        39505321,
+        39505337,
+        39505343,
+        39505410,
+        39505421,
+        39505490,
+        39505534,
+        39505647,
+        39505694,
+        39505713,
+        39505771,
+        39505784,
+        39505801,
+        39505841,
+        39505845,
+        39505900,
+        39505906,
+        39505940,
+        39505942,
+        39506269,
+        39506647,
+        39511057
+      ],
+      "created_at": "2024-02-25T21:09:21Z",
+      "created_at_i": 1708895361,
+      "num_comments": 94,
+      "objectID": "39504788",
+      "points": 97,
+      "story_id": 39504788,
+      "title": "So Google's Gemini Doesn't Like Python Programming and Sanskrit?",
+      "updated_at": "2025-08-14T22:44:07Z",
+      "url": "https://new.pythonforengineers.com/blog/so-evidently/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "keskival"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em>'s <em>Gemini</em> model is delayed"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "gemini"
+          ],
+          "value": "https://www.theverge.com/2023/11/16/23964937/googles-next-generation-<em>gemini</em>-ai-model-is-reportedly-delayed"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_keskival",
+        "story_38300990"
+      ],
+      "author": "keskival",
+      "children": [
+        38302543,
+        38302666,
+        38302704,
+        38302944,
+        38303001,
+        38303811,
+        38303876,
+        38304098,
+        38304278,
+        38305595
+      ],
+      "created_at": "2023-11-17T08:38:37Z",
+      "created_at_i": 1700210317,
+      "num_comments": 66,
+      "objectID": "38300990",
+      "points": 97,
+      "story_id": 38300990,
+      "title": "Google's Gemini model is delayed",
+      "updated_at": "2024-09-20T15:34:15Z",
+      "url": "https://www.theverge.com/2023/11/16/23964937/googles-next-generation-gemini-ai-model-is-reportedly-delayed"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "donsupreme"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em>'s <em>Gemini</em> Headaches Spur $90B Selloff"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "gemini"
+          ],
+          "value": "https://www.forbes.com/sites/dereksaul/2024/02/26/googles-<em>gemini</em>-headaches-spur-90-billion-selloff/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_donsupreme",
+        "story_39526886"
+      ],
+      "author": "donsupreme",
+      "children": [
+        39527012,
+        39527026,
+        39527077,
+        39527199,
+        39527238,
+        39527263,
+        39527332,
+        39527599,
+        39527823,
+        39529375,
+        39530301,
+        39532888,
+        39535202
+      ],
+      "created_at": "2024-02-27T17:36:22Z",
+      "created_at_i": 1709055382,
+      "num_comments": 117,
+      "objectID": "39526886",
+      "points": 88,
+      "story_id": 39526886,
+      "title": "Google's Gemini Headaches Spur $90B Selloff",
+      "updated_at": "2025-10-06T20:33:58Z",
+      "url": "https://www.forbes.com/sites/dereksaul/2024/02/26/googles-gemini-headaches-spur-90-billion-selloff/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "CrypticShift"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em> Brings <em>Gemini</em> 3 AI Model to Search and AI Mode"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://blog.<em>google</em>/products/search/<em>gemini</em>-3-search-ai-mode/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_CrypticShift",
+        "story_45968091"
+      ],
+      "author": "CrypticShift",
+      "children": [
+        45969132,
+        45969194,
+        45970169,
+        45970765
+      ],
+      "created_at": "2025-11-18T16:08:17Z",
+      "created_at_i": 1763482097,
+      "num_comments": 9,
+      "objectID": "45968091",
+      "points": 84,
+      "story_id": 45968091,
+      "title": "Google Brings Gemini 3 AI Model to Search and AI Mode",
+      "updated_at": "2026-03-05T23:02:14Z",
+      "url": "https://blog.google/products/search/gemini-3-search-ai-mode/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "zerojames"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "First Impressions with <em>Google</em> <em>Gemini</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://blog.roboflow.com/first-impressions-with-<em>google</em>-<em>gemini</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_zerojames",
+        "story_38630349"
+      ],
+      "author": "zerojames",
+      "children": [
+        38630985,
+        38631700,
+        38631729,
+        38631921,
+        38632068,
+        38632930,
+        38633826,
+        38638274
+      ],
+      "created_at": "2023-12-13T17:05:49Z",
+      "created_at_i": 1702487149,
+      "num_comments": 25,
+      "objectID": "38630349",
+      "points": 83,
+      "story_id": 38630349,
+      "title": "First Impressions with Google Gemini",
+      "updated_at": "2024-09-20T15:50:44Z",
+      "url": "https://blog.roboflow.com/first-impressions-with-google-gemini/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "bbzjk7"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em>'s best <em>Gemini</em> demo was faked"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "gemini"
+          ],
+          "value": "https://techcrunch.com/2023/12/07/googles-best-<em>gemini</em>-demo-was-faked/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_bbzjk7",
+        "story_38565038"
+      ],
+      "author": "bbzjk7",
+      "children": [
+        38565542,
+        38565967,
+        38566319,
+        38569816,
+        38569956
+      ],
+      "created_at": "2023-12-08T03:17:54Z",
+      "created_at_i": 1702005474,
+      "num_comments": 20,
+      "objectID": "38565038",
+      "points": 77,
+      "story_id": 38565038,
+      "title": "Google's best Gemini demo was faked",
+      "updated_at": "2024-09-20T15:52:29Z",
+      "url": "https://techcrunch.com/2023/12/07/googles-best-gemini-demo-was-faked/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "admp"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "Yishan Wong: \"<em>Google</em>'s <em>Gemini</em> issue is not about woke/DEI\""
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://twitter.com/yishan/status/1760859214875132161"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_admp",
+        "story_39477946"
+      ],
+      "author": "admp",
+      "children": [
+        39478063,
+        39478069,
+        39478106,
+        39478127,
+        39478167,
+        39478207,
+        39478258,
+        39478278,
+        39478584,
+        39478601,
+        39478648,
+        39478889,
+        39478913,
+        39478958,
+        39479073,
+        39479229,
+        39479568,
+        39479917,
+        39480034,
+        39480209,
+        39480356,
+        39480434,
+        39482368,
+        39482743,
+        39483069,
+        39483354,
+        39483424,
+        39483642,
+        39484918,
+        39485375,
+        39485537,
+        39485748,
+        39486221,
+        39488301,
+        39489089,
+        39491220,
+        39495128,
+        39495153
+      ],
+      "created_at": "2024-02-23T07:41:40Z",
+      "created_at_i": 1708674100,
+      "num_comments": 124,
+      "objectID": "39477946",
+      "points": 75,
+      "story_id": 39477946,
+      "title": "Yishan Wong: \"Google's Gemini issue is not about woke/DEI\"",
+      "updated_at": "2025-10-06T20:33:58Z",
+      "url": "https://twitter.com/yishan/status/1760859214875132161"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Bender"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "Update turns <em>Google</em> <em>Gemini</em> into a prude, breaking apps for trauma survivors"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://www.theregister.com/2025/05/08/<em>google</em>_<em>gemini</em>_update_prevents_disabling/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Bender",
+        "story_43947731"
+      ],
+      "author": "Bender",
+      "children": [
+        43947935,
+        43947993,
+        43947998,
+        43948005,
+        43948039,
+        43948061,
+        43948076,
+        43948099,
+        43948137,
+        43948142,
+        43948265,
+        43948279,
+        43948305,
+        43948419,
+        43948453,
+        43948459,
+        43948620,
+        43948839,
+        43949155,
+        43951343
+      ],
+      "created_at": "2025-05-10T18:20:54Z",
+      "created_at_i": 1746901254,
+      "num_comments": 78,
+      "objectID": "43947731",
+      "points": 69,
+      "story_id": 43947731,
+      "title": "Update turns Google Gemini into a prude, breaking apps for trauma survivors",
+      "updated_at": "2026-01-21T14:44:09Z",
+      "url": "https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "robin_reala"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em> <em>Gemini</em> is about to control your messages and calls, even if you say no"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "gemini"
+          ],
+          "value": "https://www.laptopmag.com/ai/<em>gemini</em>-phone-access-update"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_robin_reala",
+        "story_44411114"
+      ],
+      "author": "robin_reala",
+      "children": [
+        44411167,
+        44411266,
+        44411275,
+        44411278,
+        44411289,
+        44411290,
+        44411326,
+        44411353,
+        44411372,
+        44411435,
+        44411448,
+        44411455,
+        44411876,
+        44412886,
+        44414831,
+        44415338,
+        44415700,
+        44420263
+      ],
+      "created_at": "2025-06-29T07:54:52Z",
+      "created_at_i": 1751183692,
+      "num_comments": 61,
+      "objectID": "44411114",
+      "points": 68,
+      "story_id": 44411114,
+      "title": "Google Gemini is about to control your messages and calls, even if you say no",
+      "updated_at": "2025-12-08T18:38:50Z",
+      "url": "https://www.laptopmag.com/ai/gemini-phone-access-update"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "toth"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em> <em>Gemini</em> Eats the World"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://www.semianalysis.com/p/<em>google</em>-<em>gemini</em>-eats-the-world-<em>gemini</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_toth",
+        "story_37292844"
+      ],
+      "author": "toth",
+      "children": [
+        37293466,
+        37293577,
+        37293664,
+        37293909,
+        37294015,
+        37294079,
+        37294081,
+        37294351,
+        37421264
+      ],
+      "created_at": "2023-08-28T12:12:18Z",
+      "created_at_i": 1693224738,
+      "num_comments": 21,
+      "objectID": "37292844",
+      "points": 62,
+      "story_id": 37292844,
+      "title": "Google Gemini Eats the World",
+      "updated_at": "2025-08-15T22:05:04Z",
+      "url": "https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "taylorbuley"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "ChatGPT and <em>Google</em> <em>Gemini</em> are both doomed"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://nymag.com/intelligencer/article/chatgpt-and-<em>google</em>-<em>gemini</em>-are-both-doomed.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_taylorbuley",
+        "story_39565252"
+      ],
+      "author": "taylorbuley",
+      "children": [
+        39565483,
+        39565493,
+        39565644,
+        39565674,
+        39565756,
+        39565818,
+        39565835,
+        39566092,
+        39566168,
+        39566819,
+        39567135,
+        39567546,
+        39569536,
+        39569687
+      ],
+      "created_at": "2024-03-01T18:48:05Z",
+      "created_at_i": 1709318885,
+      "num_comments": 66,
+      "objectID": "39565252",
+      "points": 60,
+      "story_id": 39565252,
+      "title": "ChatGPT and Google Gemini are both doomed",
+      "updated_at": "2025-09-01T00:31:20Z",
+      "url": "https://nymag.com/intelligencer/article/chatgpt-and-google-gemini-are-both-doomed.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "worstspotgain"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em> <em>Gemini</em> 1.5 Pro leaps ahead in AI race, challenging GPT-4o"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "partial",
+          "matchedWords": [
+            "gemini"
+          ],
+          "value": "https://venturebeat.com/ai/googles-<em>gemini</em>-1-5-pro-leaps-ahead-in-ai-race-challenging-gpt-4o/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_worstspotgain",
+        "story_41142544"
+      ],
+      "author": "worstspotgain",
+      "children": [
+        41142886,
+        41142905,
+        41143391,
+        41143402,
+        41143511,
+        41143760,
+        41144187,
+        41145425,
+        41146651,
+        41155247,
+        41176744
+      ],
+      "created_at": "2024-08-02T20:53:00Z",
+      "created_at_i": 1722631980,
+      "num_comments": 32,
+      "objectID": "41142544",
+      "points": 51,
+      "story_id": 41142544,
+      "title": "Google Gemini 1.5 Pro leaps ahead in AI race, challenging GPT-4o",
+      "updated_at": "2025-08-14T22:03:30Z",
+      "url": "https://venturebeat.com/ai/googles-gemini-1-5-pro-leaps-ahead-in-ai-race-challenging-gpt-4o/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "daphnemichala"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "<em>Google</em> <em>Gemini</em> tells grad student to 'please die' while helping with his homework"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://www.theregister.com/2024/11/15/<em>google</em>_<em>gemini</em>_prompt_bad_response/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_daphnemichala",
+        "story_42171774"
+      ],
+      "author": "daphnemichala",
+      "children": [
+        42172064
+      ],
+      "created_at": "2024-11-18T12:26:12Z",
+      "created_at_i": 1731932772,
+      "num_comments": 4,
+      "objectID": "42171774",
+      "points": 51,
+      "story_id": 42171774,
+      "title": "Google Gemini tells grad student to 'please die' while helping with his homework",
+      "updated_at": "2024-11-28T01:14:23Z",
+      "url": "https://www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "belter"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "Adobe Firefly repeats the same AI blunders as <em>Google</em> <em>Gemini</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://www.semafor.com/article/03/13/2024/adobe-firefly-repeats-the-same-ai-blunders-as-<em>google</em>-<em>gemini</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_belter",
+        "story_39702851"
+      ],
+      "author": "belter",
+      "children": [
+        39703688,
+        39703711,
+        39703728,
+        39703733,
+        39703764,
+        39703767,
+        39704183,
+        39704188,
+        39704203,
+        39704468,
+        39706547
+      ],
+      "created_at": "2024-03-14T12:12:42Z",
+      "created_at_i": 1710418362,
+      "num_comments": 16,
+      "objectID": "39702851",
+      "points": 44,
+      "story_id": 39702851,
+      "title": "Adobe Firefly repeats the same AI blunders as Google Gemini",
+      "updated_at": "2025-08-14T22:42:40Z",
+      "url": "https://www.semafor.com/article/03/13/2024/adobe-firefly-repeats-the-same-ai-blunders-as-google-gemini"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "m463"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "National Archives Pushes <em>Google</em> <em>Gemini</em> AI on Employees"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "google",
+            "gemini"
+          ],
+          "value": "https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-<em>google</em>-<em>gemini</em>-ai-on-employees/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_m463",
+        "story_41855366"
+      ],
+      "author": "m463",
+      "children": [
+        41855756,
+        41855803,
+        41855959,
+        41859296,
+        41865157
+      ],
+      "created_at": "2024-10-16T03:36:36Z",
+      "created_at_i": 1729049796,
+      "num_comments": 14,
+      "objectID": "41855366",
+      "points": 44,
+      "story_id": 41855366,
+      "title": "National Archives Pushes Google Gemini AI on Employees",
+      "updated_at": "2024-10-25T04:07:10Z",
+      "url": "https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/"
+    }
+  ],
+  "hitsPerPage": 25,
+  "nbHits": 1937,
+  "nbPages": 40,
+  "page": 0,
+  "params": "query=Google+Gemini&tags=story&page=0&hitsPerPage=25&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 12,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 306,
+      "roundTrip": 23
+    },
+    "fetch": {
+      "query": 6,
+      "scanning": 3,
+      "total": 10
+    },
+    "total": 12
+  },
+  "query": "Google Gemini",
+  "serverTimeMS": 320
+}

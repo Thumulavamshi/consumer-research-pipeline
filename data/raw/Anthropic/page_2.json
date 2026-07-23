@@ -1,0 +1,2049 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Bolat14"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> surpasses OpenAI to become most valuable AI startup"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://qazinform.com/news/<em>anthropic</em>-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Bolat14",
+        "story_48336233"
+      ],
+      "author": "Bolat14",
+      "children": [
+        48336272,
+        48336294,
+        48336310,
+        48336368,
+        48336381,
+        48336386,
+        48336447,
+        48336455,
+        48336574,
+        48336586,
+        48336653,
+        48336675,
+        48336718,
+        48336725,
+        48336726,
+        48336787,
+        48336811,
+        48336815,
+        48336836,
+        48336874,
+        48336904,
+        48336919,
+        48336941,
+        48336957,
+        48337003,
+        48337014,
+        48337042,
+        48337064,
+        48337082,
+        48337115,
+        48337158,
+        48337237,
+        48337254,
+        48337280,
+        48337445,
+        48337446,
+        48337491,
+        48337589,
+        48337619,
+        48337624,
+        48337627,
+        48337648,
+        48337734,
+        48337764,
+        48337882,
+        48337985,
+        48337986,
+        48338022,
+        48338030,
+        48338130,
+        48338189,
+        48338373,
+        48338454,
+        48338482,
+        48338761,
+        48339508,
+        48339516,
+        48342493,
+        48342773,
+        48343091,
+        48344657
+      ],
+      "created_at": "2026-05-30T13:56:34Z",
+      "created_at_i": 1780149394,
+      "num_comments": 472,
+      "objectID": "48336233",
+      "points": 422,
+      "story_id": 48336233,
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "updated_at": "2026-07-22T06:47:29Z",
+      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ayhanfuat"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<a href=\"https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html\" rel=\"nofollow\">https://pyfound.blogspot.com/2025/12/<em>anthropic</em>-invests-in-py...</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> invests $1.5M in the Python Software Foundation"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://discuss.python.org/t/<em>anthropic</em>-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ayhanfuat",
+        "story_46601902"
+      ],
+      "author": "ayhanfuat",
+      "children": [
+        46602340,
+        46602374,
+        46602402,
+        46602456,
+        46602462,
+        46602479,
+        46602732,
+        46602828,
+        46602859,
+        46603011,
+        46603016,
+        46603103,
+        46603448,
+        46603617,
+        46603978,
+        46606625,
+        46607885,
+        46608364,
+        46694691
+      ],
+      "created_at": "2026-01-13T15:03:58Z",
+      "created_at_i": 1768316638,
+      "num_comments": 176,
+      "objectID": "46601902",
+      "points": 411,
+      "story_id": 46601902,
+      "story_text": "<a href=\"https:&#x2F;&#x2F;pyfound.blogspot.com&#x2F;2025&#x2F;12&#x2F;anthropic-invests-in-python.html\" rel=\"nofollow\">https:&#x2F;&#x2F;pyfound.blogspot.com&#x2F;2025&#x2F;12&#x2F;anthropic-invests-in-py...</a>",
+      "title": "Anthropic invests $1.5M in the Python Software Foundation",
+      "updated_at": "2026-03-05T23:22:22Z",
+      "url": "https://discuss.python.org/t/anthropic-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mfiguiere"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> tightens usage limits for Claude Code without telling users"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://techcrunch.com/2025/07/17/<em>anthropic</em>-tightens-usage-limits-for-claude-code-without-telling-users/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mfiguiere",
+        "story_44598254"
+      ],
+      "author": "mfiguiere",
+      "children": [
+        44598379,
+        44598441,
+        44598451,
+        44598491,
+        44598500,
+        44598524,
+        44598580,
+        44598584,
+        44598726,
+        44598765,
+        44598772,
+        44598796,
+        44598803,
+        44598895,
+        44598962,
+        44599021,
+        44599109,
+        44599168,
+        44599224,
+        44599242,
+        44599297,
+        44599351,
+        44599595,
+        44599642,
+        44599768,
+        44599803,
+        44599831,
+        44599894,
+        44599978,
+        44600105,
+        44600140,
+        44600374,
+        44600418,
+        44600782,
+        44600949,
+        44600969,
+        44601139,
+        44601258,
+        44601267,
+        44601707,
+        44601749,
+        44601976,
+        44602035,
+        44602069,
+        44602327,
+        44602386,
+        44602496,
+        44602793,
+        44603609,
+        44604495,
+        44604710,
+        44612013,
+        44612627,
+        44617791
+      ],
+      "created_at": "2025-07-17T21:09:51Z",
+      "created_at_i": 1752786591,
+      "num_comments": 257,
+      "objectID": "44598254",
+      "points": 407,
+      "story_id": 44598254,
+      "title": "Anthropic tightens usage limits for Claude Code without telling users",
+      "updated_at": "2026-02-24T20:13:30Z",
+      "url": "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tzury"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "OpenAI co-founder John Schulman says he will leave and join rival <em>Anthropic</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-<em>anthropic</em>.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tzury",
+        "story_41168904"
+      ],
+      "author": "tzury",
+      "children": [
+        41169028,
+        41169048,
+        41169071,
+        41169075,
+        41169087,
+        41169095,
+        41169124,
+        41169200,
+        41169222,
+        41169324,
+        41169474,
+        41169482,
+        41169508,
+        41169599,
+        41169606,
+        41169719,
+        41170149,
+        41170156,
+        41170675,
+        41170772,
+        41171053,
+        41171125
+      ],
+      "created_at": "2024-08-06T08:39:55Z",
+      "created_at_i": 1722933595,
+      "num_comments": 280,
+      "objectID": "41168904",
+      "points": 403,
+      "story_id": 41168904,
+      "title": "OpenAI co-founder John Schulman says he will leave and join rival Anthropic",
+      "updated_at": "2026-07-16T13:54:10Z",
+      "url": "https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "fofoz"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "Google to invest up to $2B in <em>Anthropic</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-<em>anthropic</em>-wsj-2023-10-27/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_fofoz",
+        "story_38048155"
+      ],
+      "author": "fofoz",
+      "children": [
+        38048482,
+        38048502,
+        38048517,
+        38048529,
+        38048533,
+        38048598,
+        38048604,
+        38048609,
+        38048615,
+        38048644,
+        38048717,
+        38048814,
+        38048901,
+        38049147,
+        38049324,
+        38049331,
+        38049478,
+        38049500,
+        38049704,
+        38049751,
+        38049889,
+        38050020,
+        38050217,
+        38050255,
+        38050293,
+        38050335,
+        38050373,
+        38050380,
+        38050413,
+        38050430,
+        38050537,
+        38051950,
+        38051992,
+        38052128,
+        38052284,
+        38052445,
+        38053062,
+        38061444
+      ],
+      "created_at": "2023-10-28T08:24:33Z",
+      "created_at_i": 1698481473,
+      "num_comments": 374,
+      "objectID": "38048155",
+      "points": 400,
+      "story_id": 38048155,
+      "title": "Google to invest up to $2B in Anthropic",
+      "updated_at": "2026-04-25T08:41:41Z",
+      "url": "https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "beardyw"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> tries to hide Claude's AI actions. Devs hate it"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://www.theregister.com/2026/02/16/<em>anthropic</em>_claude_ai_edits/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_beardyw",
+        "story_47033622"
+      ],
+      "author": "beardyw",
+      "children": [
+        47034073,
+        47034236,
+        47034281,
+        47034361,
+        47034365,
+        47034387,
+        47034401,
+        47034464,
+        47034492,
+        47034544,
+        47034565,
+        47034747,
+        47034777,
+        47034786,
+        47034852,
+        47034898,
+        47034917,
+        47034977,
+        47035134,
+        47035136,
+        47035488,
+        47035613,
+        47035660,
+        47035773,
+        47035811,
+        47036030,
+        47036173,
+        47036307,
+        47036418,
+        47036455,
+        47036590,
+        47036727,
+        47036769,
+        47036770,
+        47036812,
+        47036999,
+        47037453,
+        47037540,
+        47037681,
+        47038825,
+        47038886,
+        47039136,
+        47040058,
+        47044570,
+        47045109
+      ],
+      "created_at": "2026-02-16T11:06:28Z",
+      "created_at_i": 1771239988,
+      "num_comments": 233,
+      "objectID": "47033622",
+      "points": 398,
+      "story_id": 47033622,
+      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+      "updated_at": "2026-06-15T19:45:46Z",
+      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cjbarber"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em>'s Prompt Engineering Tutorial (2024)"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://github.com/<em>anthropic</em>s/prompt-eng-interactive-tutorial"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cjbarber",
+        "story_45551260"
+      ],
+      "author": "cjbarber",
+      "children": [
+        45554793,
+        45554826,
+        45555875,
+        45556189,
+        45556583,
+        45556685,
+        45556819,
+        45556823,
+        45557361,
+        45557550,
+        45557734,
+        45557793,
+        45557842,
+        45557945,
+        45557948,
+        45558534,
+        45558637,
+        45559244,
+        45560889,
+        45561339,
+        45561534,
+        45598289
+      ],
+      "created_at": "2025-10-11T18:06:40Z",
+      "created_at_i": 1760206000,
+      "num_comments": 117,
+      "objectID": "45551260",
+      "points": 392,
+      "story_id": 45551260,
+      "title": "Anthropic's Prompt Engineering Tutorial (2024)",
+      "updated_at": "2026-04-01T06:42:12Z",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "isaacfrond"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em>’s $5B, 4-year plan to take on OpenAI"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://techcrunch.com/2023/04/06/<em>anthropic</em>s-5b-4-year-plan-to-take-on-openai/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_isaacfrond",
+        "story_35523859"
+      ],
+      "author": "isaacfrond",
+      "children": [
+        35523955,
+        35523964,
+        35523972,
+        35524001,
+        35524005,
+        35524044,
+        35524049,
+        35524085,
+        35524192,
+        35524234,
+        35524236,
+        35524243,
+        35524286,
+        35524319,
+        35524334,
+        35524381,
+        35524422,
+        35524425,
+        35524583,
+        35524589,
+        35524627,
+        35524630,
+        35524802,
+        35524855,
+        35524877,
+        35525454,
+        35525536,
+        35525547,
+        35525723,
+        35525739,
+        35525910,
+        35526001,
+        35526131,
+        35526725,
+        35526811,
+        35527407,
+        35528544,
+        35532317,
+        35532401,
+        35535277,
+        35536917
+      ],
+      "created_at": "2023-04-11T11:58:09Z",
+      "created_at_i": 1681214289,
+      "num_comments": 484,
+      "objectID": "35523859",
+      "points": 383,
+      "story_id": 35523859,
+      "title": "Anthropic’s $5B, 4-year plan to take on OpenAI",
+      "updated_at": "2026-04-25T08:41:41Z",
+      "url": "https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mystcb"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> Cowork feature creates 10GB VM bundle on macOS without warning"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://github.com/<em>anthropic</em>s/claude-code/issues/22543"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mystcb",
+        "story_47218288"
+      ],
+      "author": "mystcb",
+      "children": [
+        47218762,
+        47218769,
+        47218773,
+        47218862,
+        47218864,
+        47218932,
+        47218975,
+        47219085,
+        47219151,
+        47219203,
+        47219216,
+        47219239,
+        47219475,
+        47219518,
+        47219537,
+        47219557,
+        47219596,
+        47219733,
+        47219805,
+        47219895,
+        47219964,
+        47219998,
+        47220118,
+        47220198,
+        47220221,
+        47220240,
+        47220619,
+        47220716,
+        47220764,
+        47220768,
+        47220901,
+        47221037,
+        47221218,
+        47221325,
+        47222056,
+        47222772,
+        47223058,
+        47223795
+      ],
+      "created_at": "2026-03-02T14:21:19Z",
+      "created_at_i": 1772461279,
+      "num_comments": 186,
+      "objectID": "47218288",
+      "points": 377,
+      "story_id": 47218288,
+      "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+      "updated_at": "2026-07-12T19:04:25Z",
+      "url": "https://github.com/anthropics/claude-code/issues/22543"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "surprisetalk"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "Flunking my <em>Anthropic</em> interview again"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://taylor.town/flunking-<em>anthropic</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_surprisetalk",
+        "story_45064284"
+      ],
+      "author": "surprisetalk",
+      "children": [
+        45064618,
+        45064634,
+        45064655,
+        45064683,
+        45064740,
+        45064764,
+        45064794,
+        45064812,
+        45064836,
+        45064892,
+        45064944,
+        45064945,
+        45064968,
+        45065034,
+        45065123,
+        45065134,
+        45065211,
+        45065225,
+        45065286,
+        45065306,
+        45065311,
+        45065449,
+        45066875,
+        45067189,
+        45067246,
+        45067441,
+        45067512,
+        45067591,
+        45067611,
+        45067613,
+        45067618,
+        45067640,
+        45067695,
+        45067707,
+        45067788,
+        45067795,
+        45067815,
+        45067912,
+        45068001,
+        45068024,
+        45068042,
+        45068054,
+        45068079,
+        45068081,
+        45068183,
+        45068421,
+        45068583,
+        45068622,
+        45068681,
+        45068715,
+        45068721,
+        45068825,
+        45068918,
+        45068949,
+        45069047,
+        45069151,
+        45069293,
+        45069300,
+        45069991,
+        45070049,
+        45070286,
+        45070344,
+        45070357,
+        45070369,
+        45070383,
+        45070704,
+        45070706,
+        45070823,
+        45070863,
+        45071044,
+        45071267,
+        45071328,
+        45071588,
+        45071680,
+        45072292,
+        45072361,
+        45072519,
+        45072906,
+        45073413,
+        45073465,
+        45073472,
+        45073592,
+        45075418,
+        45075888,
+        45089611,
+        45090662
+      ],
+      "created_at": "2025-08-29T14:02:59Z",
+      "created_at_i": 1756476179,
+      "num_comments": 347,
+      "objectID": "45064284",
+      "points": 370,
+      "story_id": 45064284,
+      "title": "Flunking my Anthropic interview again",
+      "updated_at": "2026-04-13T07:37:47Z",
+      "url": "https://taylor.town/flunking-anthropic"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cl42"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "Kimi K3, Qwen 3.8, and <em>Anthropic</em>'s (Potential) Unravelling"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cl42",
+        "story_48980019"
+      ],
+      "author": "cl42",
+      "children": [
+        48980486,
+        48980516,
+        48980545,
+        48980608,
+        48980631,
+        48980692,
+        48980711,
+        48980738,
+        48980764,
+        48980818,
+        48980826,
+        48980866,
+        48980871,
+        48980913,
+        48980937,
+        48980972,
+        48980989,
+        48981011,
+        48981063,
+        48981099,
+        48981509,
+        48981670,
+        48981896,
+        48981931,
+        48982438,
+        48986621,
+        48989828,
+        48991782
+      ],
+      "created_at": "2026-07-20T15:13:42Z",
+      "created_at_i": 1784560422,
+      "num_comments": 335,
+      "objectID": "48980019",
+      "points": 368,
+      "story_id": 48980019,
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "updated_at": "2026-07-23T08:10:05Z",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "GeorgeWoff25"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "<a href=\"https://archive.md/HqXUD\" rel=\"nofollow\">https://archive.md/HqXUD</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> taps IPO lawyers as it races OpenAI to go public"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_GeorgeWoff25",
+        "story_46132531"
+      ],
+      "author": "GeorgeWoff25",
+      "children": [
+        46132557,
+        46132810,
+        46133629,
+        46134723,
+        46135092,
+        46135277,
+        46135509,
+        46135524,
+        46135555,
+        46135676,
+        46136016,
+        46136293,
+        46137184,
+        46137769,
+        46137867,
+        46137969,
+        46138051,
+        46138095,
+        46139139,
+        46139471,
+        46139615,
+        46139854,
+        46139913,
+        46140746,
+        46141263,
+        46142090,
+        46142253,
+        46142323,
+        46142492,
+        46143863,
+        46145196,
+        46145249,
+        46157517
+      ],
+      "created_at": "2025-12-03T09:53:27Z",
+      "created_at_i": 1764755607,
+      "num_comments": 305,
+      "objectID": "46132531",
+      "points": 367,
+      "story_id": 46132531,
+      "story_text": "<a href=\"https:&#x2F;&#x2F;archive.md&#x2F;HqXUD\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.md&#x2F;HqXUD</a>",
+      "title": "Anthropic taps IPO lawyers as it races OpenAI to go public",
+      "updated_at": "2026-03-17T02:48:09Z",
+      "url": "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "gw5815"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> Claude 3.5 can create icalendar files, so I did this"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-<em>anthropic</em>-claude-35"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_gw5815",
+        "story_41343826"
+      ],
+      "author": "gw5815",
+      "children": [
+        41344665,
+        41344714,
+        41344823,
+        41344853,
+        41344948,
+        41344978,
+        41345004,
+        41345040,
+        41345045,
+        41345055,
+        41345060,
+        41345223,
+        41345267,
+        41345353,
+        41345681,
+        41345773,
+        41345796,
+        41345927,
+        41345991,
+        41346037,
+        41346118,
+        41346123,
+        41346203,
+        41346206,
+        41346207,
+        41346273,
+        41346442,
+        41346540,
+        41346697,
+        41346799,
+        41346810,
+        41347407,
+        41347687,
+        41347727,
+        41348332,
+        41348950,
+        41357170
+      ],
+      "created_at": "2024-08-25T02:27:51Z",
+      "created_at_i": 1724552871,
+      "num_comments": 170,
+      "objectID": "41343826",
+      "points": 367,
+      "story_id": 41343826,
+      "title": "Anthropic Claude 3.5 can create icalendar files, so I did this",
+      "updated_at": "2026-03-22T17:46:16Z",
+      "url": "https://gregsramblings.com/stupid-but-useful-ai-tricks-creating-calendar-entries-from-an-image-using-anthropic-claude-35"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "meetpateltech"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> raises $65B in Series H funding at $965B post-money valuation"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://www.<em>anthropic</em>.com/news/series-h"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_meetpateltech",
+        "story_48313048"
+      ],
+      "author": "meetpateltech",
+      "children": [
+        48313244,
+        48313272,
+        48313332,
+        48313390,
+        48313445,
+        48313498,
+        48313635,
+        48313663,
+        48313860,
+        48313901,
+        48313912,
+        48313961,
+        48314013,
+        48314075,
+        48314285,
+        48314615,
+        48315289,
+        48315694,
+        48315752,
+        48315755,
+        48315937,
+        48317239,
+        48318406,
+        48318454,
+        48318667,
+        48318917,
+        48319263,
+        48319269,
+        48319520,
+        48319580,
+        48319730,
+        48320491,
+        48320756,
+        48321059,
+        48321085,
+        48322534,
+        48324638,
+        48324764
+      ],
+      "created_at": "2026-05-28T18:09:44Z",
+      "created_at_i": 1779991784,
+      "num_comments": 430,
+      "objectID": "48313048",
+      "points": 362,
+      "story_id": 48313048,
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "updated_at": "2026-07-09T09:18:59Z",
+      "url": "https://www.anthropic.com/news/series-h"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "codesparkle"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> made a mistake in cutting off third-party clients"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://archaeologist.dev/artifacts/<em>anthropic</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_codesparkle",
+        "story_46586766"
+      ],
+      "author": "codesparkle",
+      "children": [
+        46588081,
+        46588169,
+        46588230,
+        46588410,
+        46588526,
+        46588531,
+        46588559,
+        46588590,
+        46588619,
+        46588623,
+        46588678,
+        46588801,
+        46588850,
+        46588853,
+        46588882,
+        46588889,
+        46588899,
+        46588912,
+        46588948,
+        46588970,
+        46589012,
+        46589017,
+        46589188,
+        46589200,
+        46589329,
+        46589888,
+        46589948,
+        46590668,
+        46591147,
+        46591723,
+        46591916,
+        46591986,
+        46592000,
+        46592107,
+        46592122,
+        46592182,
+        46592342,
+        46592395,
+        46592443,
+        46592517,
+        46592818,
+        46592843,
+        46592892,
+        46592913,
+        46592982,
+        46593115,
+        46593519,
+        46593860,
+        46594023,
+        46594470,
+        46594523,
+        46594555,
+        46594601,
+        46595014,
+        46595150,
+        46595201,
+        46595237,
+        46595287,
+        46595397,
+        46595446,
+        46595682,
+        46595821,
+        46596304,
+        46596789,
+        46596947,
+        46598464,
+        46599518,
+        46600285,
+        46600590,
+        46602406,
+        46602689,
+        46616716,
+        46617042
+      ],
+      "created_at": "2026-01-12T10:57:29Z",
+      "created_at_i": 1768215449,
+      "num_comments": 242,
+      "objectID": "46586766",
+      "points": 350,
+      "story_id": 46586766,
+      "title": "Anthropic made a mistake in cutting off third-party clients",
+      "updated_at": "2026-03-05T23:21:52Z",
+      "url": "https://archaeologist.dev/artifacts/anthropic"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "pkress2"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "President Trump bans <em>Anthropic</em> from use in government systems"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-<em>anthropic</em>-pentagon-openai-ai-weapons-ban"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_pkress2",
+        "story_47186031"
+      ],
+      "author": "pkress2",
+      "children": [
+        47185592,
+        47185690,
+        47185701,
+        47185709,
+        47185760,
+        47185787,
+        47185875,
+        47185901,
+        47185909,
+        47185916,
+        47185972,
+        47186074,
+        47186134,
+        47186163,
+        47186174,
+        47186313,
+        47186327,
+        47186336,
+        47186367,
+        47186382,
+        47186385,
+        47186400,
+        47186404,
+        47186409,
+        47186439,
+        47186456,
+        47186457,
+        47186481,
+        47186483,
+        47186525,
+        47186537,
+        47186568,
+        47186570,
+        47186648,
+        47186665,
+        47186751,
+        47186900,
+        47187193,
+        47187269,
+        47189430,
+        47189637,
+        47189671,
+        47189812,
+        47190299,
+        47190380,
+        47190756,
+        47190898,
+        47190979,
+        47191550,
+        47191980,
+        47193826
+      ],
+      "created_at": "2026-02-27T21:40:40Z",
+      "created_at_i": 1772228440,
+      "num_comments": 216,
+      "objectID": "47186031",
+      "points": 331,
+      "story_id": 47186031,
+      "title": "President Trump bans Anthropic from use in government systems",
+      "updated_at": "2026-03-27T22:32:25Z",
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "behnamoh"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em>: Developing a Claude Code competitor using Claude Code is banned"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://twitter.com/SIGKITTEN/status/2009697031422652461"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_behnamoh",
+        "story_46578701"
+      ],
+      "author": "behnamoh",
+      "children": [
+        46579107,
+        46579133,
+        46579175,
+        46579182,
+        46579199,
+        46579226,
+        46579227,
+        46579232,
+        46579398,
+        46579516,
+        46579544,
+        46579547,
+        46579657,
+        46579665,
+        46579696,
+        46579708,
+        46579722,
+        46579799,
+        46579846,
+        46579891,
+        46579912,
+        46580126,
+        46580143,
+        46580237,
+        46580276,
+        46580279,
+        46580329,
+        46580335,
+        46580337,
+        46580369,
+        46580515,
+        46580680,
+        46580687,
+        46580715,
+        46581027,
+        46581492,
+        46582174,
+        46582682,
+        46583225,
+        46583591,
+        46584181,
+        46585422,
+        46585860,
+        46590500,
+        46591826,
+        46593239,
+        46615925
+      ],
+      "created_at": "2026-01-11T19:07:08Z",
+      "created_at_i": 1768158428,
+      "num_comments": 175,
+      "objectID": "46578701",
+      "points": 321,
+      "story_id": 46578701,
+      "title": "Anthropic: Developing a Claude Code competitor using Claude Code is banned",
+      "updated_at": "2026-05-29T23:03:22Z",
+      "url": "https://twitter.com/SIGKITTEN/status/2009697031422652461"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "sammycdubs"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em>'s model naming, extrapolated"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://samwilkinson.io/posts/2026-06-09-<em>anthropic</em>s-model-naming-extrapolated"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_sammycdubs",
+        "story_48480852"
+      ],
+      "author": "sammycdubs",
+      "children": [
+        48481237,
+        48481279,
+        48481397,
+        48481557,
+        48481558,
+        48481588,
+        48481624,
+        48481672,
+        48481676,
+        48481740,
+        48481752,
+        48481766,
+        48481773,
+        48482019,
+        48482114,
+        48482182,
+        48482198,
+        48482229,
+        48482236,
+        48482263,
+        48482276,
+        48482280,
+        48482284,
+        48482307,
+        48482333,
+        48482357,
+        48482415,
+        48482548,
+        48482565,
+        48482632,
+        48482805,
+        48482920,
+        48482922,
+        48483084,
+        48483101,
+        48483193,
+        48483281,
+        48483311,
+        48483842,
+        48483911,
+        48483960,
+        48484799,
+        48484920,
+        48485109,
+        48485248,
+        48485334,
+        48485488,
+        48486226,
+        48487375,
+        48492549
+      ],
+      "created_at": "2026-06-10T18:45:20Z",
+      "created_at_i": 1781117120,
+      "num_comments": 94,
+      "objectID": "48480852",
+      "points": 320,
+      "story_id": 48480852,
+      "title": "Anthropic's model naming, extrapolated",
+      "updated_at": "2026-07-20T18:21:40Z",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "aurareturn"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "<a href=\"https://xcancel.com/nottombrown/status/2057194829986300375\" rel=\"nofollow\">https://xcancel.com/nottombrown/status/2057194829986300375</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> is expanding to Colossus2. Will use GB200"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://twitter.com/nottombrown/status/2057194829986300375"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_aurareturn",
+        "story_48214017"
+      ],
+      "author": "aurareturn",
+      "children": [
+        48214042,
+        48216019,
+        48216058,
+        48216152,
+        48216190,
+        48216232,
+        48216251,
+        48216352,
+        48216476,
+        48216593,
+        48216609,
+        48216664,
+        48216720,
+        48216755,
+        48217125,
+        48217271,
+        48217611,
+        48218125,
+        48218578,
+        48218622,
+        48218633,
+        48219068,
+        48219688,
+        48219858,
+        48219906,
+        48221662,
+        48222216,
+        48222423,
+        48223042,
+        48223732,
+        48225392,
+        48241318,
+        48248272
+      ],
+      "created_at": "2026-05-20T20:55:52Z",
+      "created_at_i": 1779310552,
+      "num_comments": 351,
+      "objectID": "48214017",
+      "points": 307,
+      "story_id": 48214017,
+      "story_text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;nottombrown&#x2F;status&#x2F;2057194829986300375\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;nottombrown&#x2F;status&#x2F;2057194829986300375</a>",
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "updated_at": "2026-07-12T04:26:08Z",
+      "url": "https://twitter.com/nottombrown/status/2057194829986300375"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ohong"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "At least 105 past YC founders have worked at OpenAI and <em>Anthropic</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://joinedanthropic.com"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ohong",
+        "story_48931588"
+      ],
+      "author": "ohong",
+      "children": [
+        48932555,
+        48932561,
+        48932597,
+        48932650,
+        48932677,
+        48932691,
+        48932756,
+        48932777,
+        48932857,
+        48932859,
+        48933094,
+        48933162,
+        48933272,
+        48933333,
+        48933401,
+        48933523,
+        48933541,
+        48933854,
+        48934034,
+        48934206,
+        48934213,
+        48934258,
+        48934547,
+        48934581,
+        48934910,
+        48935475,
+        48935964,
+        48936473,
+        48936525,
+        48936600,
+        48936919,
+        48937090,
+        48937575
+      ],
+      "created_at": "2026-07-16T08:03:35Z",
+      "created_at_i": 1784189015,
+      "num_comments": 223,
+      "objectID": "48931588",
+      "points": 303,
+      "story_id": 48931588,
+      "title": "At least 105 past YC founders have worked at OpenAI and Anthropic",
+      "updated_at": "2026-07-22T10:58:00Z",
+      "url": "https://joinedanthropic.com"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "minimaxir"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> revokes OpenAI's access to Claude"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://www.wired.com/story/<em>anthropic</em>-revokes-openais-access-to-claude/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_minimaxir",
+        "story_44762856"
+      ],
+      "author": "minimaxir",
+      "children": [
+        44763101,
+        44763110,
+        44763132,
+        44763169,
+        44763321,
+        44763358,
+        44763409,
+        44763554,
+        44764153,
+        44764315,
+        44765068,
+        44765488,
+        44766194,
+        44766301,
+        44766723,
+        44768120,
+        44770569,
+        44786213,
+        44786445,
+        44788761
+      ],
+      "created_at": "2025-08-01T21:50:28Z",
+      "created_at_i": 1754085028,
+      "num_comments": 124,
+      "objectID": "44762856",
+      "points": 294,
+      "story_id": 44762856,
+      "title": "Anthropic revokes OpenAI's access to Claude",
+      "updated_at": "2025-12-02T04:12:54Z",
+      "url": "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "nobody9999"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> judge rejects $1.5B AI copyright settlement"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://news.bloomberglaw.com/ip-law/<em>anthropic</em>-judge-blasts-copyright-pact-as-nowhere-close-to-done"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_nobody9999",
+        "story_45179304"
+      ],
+      "author": "nobody9999",
+      "children": [
+        45179313,
+        45186193,
+        45187038,
+        45187088,
+        45187248,
+        45187251,
+        45189550,
+        45189813,
+        45189876,
+        45190284,
+        45190352,
+        45190646,
+        45191029,
+        45191212,
+        45194689,
+        45200170
+      ],
+      "created_at": "2025-09-09T08:46:53Z",
+      "created_at_i": 1757407613,
+      "num_comments": 320,
+      "objectID": "45179304",
+      "points": 293,
+      "story_id": 45179304,
+      "title": "Anthropic judge rejects $1.5B AI copyright settlement",
+      "updated_at": "2026-05-08T06:09:48Z",
+      "url": "https://news.bloomberglaw.com/ip-law/anthropic-judge-blasts-copyright-pact-as-nowhere-close-to-done"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mikece"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "<a href=\"https://notdivided.org/\" rel=\"nofollow\">https://notdivided.org/</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "Google workers seek 'red lines' on military A.I., echoing <em>Anthropic</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mikece",
+        "story_47175931"
+      ],
+      "author": "mikece",
+      "children": [
+        47176034,
+        47176038,
+        47176089,
+        47176170,
+        47176174,
+        47176206,
+        47176211,
+        47176220,
+        47176290,
+        47176320,
+        47176379,
+        47176410,
+        47176467,
+        47176477,
+        47176485,
+        47176489,
+        47176571,
+        47176608,
+        47176731,
+        47176868,
+        47177215,
+        47177233,
+        47179194,
+        47179453,
+        47181038,
+        47193029
+      ],
+      "created_at": "2026-02-27T03:08:09Z",
+      "created_at_i": 1772161689,
+      "num_comments": 139,
+      "objectID": "47175931",
+      "points": 288,
+      "story_id": 47175931,
+      "story_text": "<a href=\"https:&#x2F;&#x2F;notdivided.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;notdivided.org&#x2F;</a>",
+      "title": "Google workers seek 'red lines' on military A.I., echoing Anthropic",
+      "updated_at": "2026-05-01T01:49:08Z",
+      "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "l1n"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "<em>Anthropic</em> expands partnership with Google and Broadcom for next-gen compute"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://www.<em>anthropic</em>.com/news/google-broadcom-partnership-compute"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_l1n",
+        "story_47667717"
+      ],
+      "author": "l1n",
+      "children": [
+        47669033,
+        47669075,
+        47669124,
+        47669158,
+        47669291,
+        47669517,
+        47669949,
+        47670649,
+        47670878,
+        47672208,
+        47672368,
+        47672476,
+        47672892,
+        47672938,
+        47676658,
+        47684881
+      ],
+      "created_at": "2026-04-06T21:52:08Z",
+      "created_at_i": 1775512328,
+      "num_comments": 126,
+      "objectID": "47667717",
+      "points": 286,
+      "story_id": 47667717,
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "updated_at": "2026-06-04T04:15:44Z",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "yurivish"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "How <em>Anthropic</em> teams use Claude Code"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "anthropic"
+          ],
+          "value": "https://www.<em>anthropic</em>.com/news/how-<em>anthropic</em>-teams-use-claude-code"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_yurivish",
+        "story_44678535"
+      ],
+      "author": "yurivish",
+      "children": [
+        44678596,
+        44678618,
+        44678651,
+        44678665,
+        44678684,
+        44678708,
+        44678807,
+        44678817,
+        44678825,
+        44678844,
+        44678876,
+        44678925,
+        44678937,
+        44678954,
+        44678982,
+        44679083,
+        44679132,
+        44679142,
+        44679187,
+        44679232,
+        44679238,
+        44679413,
+        44679546,
+        44679642,
+        44679800,
+        44679869,
+        44680039,
+        44682178,
+        44683686,
+        44684940,
+        44685389,
+        44687115,
+        44689891,
+        44691543
+      ],
+      "created_at": "2025-07-25T01:43:27Z",
+      "created_at_i": 1753407807,
+      "num_comments": 240,
+      "objectID": "44678535",
+      "points": 285,
+      "story_id": 44678535,
+      "title": "How Anthropic teams use Claude Code",
+      "updated_at": "2026-04-15T13:34:41Z",
+      "url": "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code"
+    }
+  ],
+  "hitsPerPage": 25,
+  "nbHits": 6039,
+  "nbPages": 40,
+  "page": 2,
+  "params": "query=Anthropic&tags=story&page=2&hitsPerPage=25&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 12,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 21
+    },
+    "fetch": {
+      "query": 6,
+      "scanning": 3,
+      "total": 11
+    },
+    "total": 12
+  },
+  "query": "Anthropic",
+  "serverTimeMS": 14
+}

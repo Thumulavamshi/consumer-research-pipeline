@@ -1,0 +1,1865 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "rrampage"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> is using stealth, undeclared crawlers to evade no-crawl directives"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://blog.cloudflare.com/<em>perplexity</em>-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_rrampage",
+        "story_44785636"
+      ],
+      "author": "rrampage",
+      "children": [
+        44786011,
+        44786015,
+        44786039,
+        44786059,
+        44786064,
+        44786130,
+        44786237,
+        44786384,
+        44786446,
+        44786491,
+        44786615,
+        44786667,
+        44786759,
+        44786860,
+        44786873,
+        44786874,
+        44786930,
+        44786958,
+        44786982,
+        44786983,
+        44787129,
+        44787138,
+        44787154,
+        44787182,
+        44787267,
+        44787277,
+        44787293,
+        44787305,
+        44787450,
+        44787558,
+        44787573,
+        44787676,
+        44787694,
+        44787713,
+        44787743,
+        44787815,
+        44787911,
+        44787921,
+        44788007,
+        44788049,
+        44788087,
+        44788182,
+        44788233,
+        44788238,
+        44788261,
+        44788294,
+        44788445,
+        44788572,
+        44788678,
+        44788693,
+        44788890,
+        44789084,
+        44789553,
+        44789656,
+        44789679,
+        44789725,
+        44789976,
+        44790185,
+        44790225,
+        44790753,
+        44791067,
+        44791267,
+        44791694,
+        44792256,
+        44792275,
+        44792440,
+        44792567,
+        44792585,
+        44792917,
+        44793083,
+        44793220,
+        44793685,
+        44794697,
+        44794759,
+        44795305,
+        44795604,
+        44795986,
+        44796117,
+        44796167,
+        44796248,
+        44796706,
+        44797049,
+        44797178,
+        44797198,
+        44797444,
+        44797562,
+        44797854,
+        44798897,
+        44801542,
+        44806106,
+        44806948,
+        44810656,
+        44815590,
+        44852810
+      ],
+      "created_at": "2025-08-04T13:39:30Z",
+      "created_at_i": 1754314770,
+      "num_comments": 748,
+      "objectID": "44785636",
+      "points": 1315,
+      "story_id": 44785636,
+      "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
+      "updated_at": "2026-06-29T06:32:50Z",
+      "url": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "nilsherzig"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "The video demo runs a 7b Model on a normal gaming GPU. I think it already works quite well (accounting for the limited hardware power). :)"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Show HN: I've built a locally running <em>Perplexity</em> clone"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/nilsherzig/LLocalSearch"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_nilsherzig",
+        "story_39923404",
+        "show_hn"
+      ],
+      "author": "nilsherzig",
+      "children": [
+        39924346,
+        39924357,
+        39924830,
+        39924924,
+        39925121,
+        39925177,
+        39925249,
+        39925561,
+        39926546,
+        39926928,
+        39927417,
+        39927432,
+        39927471,
+        39927744,
+        39927803,
+        39927847,
+        39927899,
+        39927993,
+        39928096,
+        39928180,
+        39928291,
+        39928321,
+        39928397,
+        39928573,
+        39928605,
+        39928617,
+        39928873,
+        39928955,
+        39934010,
+        39935913,
+        39942010,
+        39946351,
+        40064200
+      ],
+      "created_at": "2024-04-03T21:27:46Z",
+      "created_at_i": 1712179666,
+      "num_comments": 133,
+      "objectID": "39923404",
+      "points": 669,
+      "story_id": 39923404,
+      "story_text": "The video demo runs a 7b Model on a normal gaming GPU. I think it already works quite well (accounting for the limited hardware power). :)",
+      "title": "Show HN: I've built a locally running Perplexity clone",
+      "updated_at": "2025-09-25T18:43:21Z",
+      "url": "https://github.com/nilsherzig/LLocalSearch"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cdme"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> AI is lying about their user agent"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://rknight.me/blog/<em>perplexity</em>-ai-is-lying-about-its-user-agent/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cdme",
+        "story_40690898"
+      ],
+      "author": "cdme",
+      "children": [
+        40691044,
+        40691051,
+        40691055,
+        40691061,
+        40691064,
+        40691072,
+        40691087,
+        40691090,
+        40691095,
+        40691106,
+        40691122,
+        40691144,
+        40691161,
+        40691166,
+        40691170,
+        40691185,
+        40691215,
+        40691232,
+        40691243,
+        40691261,
+        40691283,
+        40691308,
+        40691319,
+        40691342,
+        40691346,
+        40691354,
+        40691381,
+        40691405,
+        40691413,
+        40691423,
+        40691440,
+        40691449,
+        40691473,
+        40691474,
+        40691483,
+        40691492,
+        40691502,
+        40691508,
+        40691519,
+        40691521,
+        40691526,
+        40691559,
+        40691562,
+        40691610,
+        40691612,
+        40691757,
+        40691785,
+        40691820,
+        40691908,
+        40691947,
+        40691990,
+        40692015,
+        40692024,
+        40692045,
+        40692073,
+        40692075,
+        40692102,
+        40692183,
+        40692252,
+        40692305,
+        40692417,
+        40692492,
+        40692539,
+        40692931,
+        40693011,
+        40693140,
+        40693342,
+        40693362,
+        40693402,
+        40693487,
+        40694167,
+        40694180,
+        40696552,
+        40697417,
+        40745732
+      ],
+      "created_at": "2024-06-15T16:48:13Z",
+      "created_at_i": 1718470093,
+      "num_comments": 533,
+      "objectID": "40690898",
+      "points": 626,
+      "story_id": 40690898,
+      "title": "Perplexity AI is lying about their user agent",
+      "updated_at": "2025-12-12T17:00:37Z",
+      "url": "https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "sean_pedersen"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Perplexica: Open-source <em>Perplexity</em> alternative"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/ItzCrazyKns/Perplexica"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_sean_pedersen",
+        "story_40462369"
+      ],
+      "author": "sean_pedersen",
+      "children": [
+        40463159,
+        40463177,
+        40463314,
+        40463356,
+        40463417,
+        40463541,
+        40463932,
+        40464143,
+        40464172,
+        40464397,
+        40464447,
+        40464700,
+        40464788,
+        40465072,
+        40465922,
+        40466369,
+        40466786,
+        40466949,
+        40467517,
+        40467929,
+        40471066,
+        40479103,
+        40510303
+      ],
+      "created_at": "2024-05-24T02:49:44Z",
+      "created_at_i": 1716518984,
+      "num_comments": 83,
+      "objectID": "40462369",
+      "points": 378,
+      "story_id": 40462369,
+      "title": "Perplexica: Open-source Perplexity alternative",
+      "updated_at": "2026-06-06T12:14:39Z",
+      "url": "https://github.com/ItzCrazyKns/Perplexica"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "vinni2"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> Deep Research"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.<em>perplexity</em>.ai/hub/blog/introducing-<em>perplexity</em>-deep-research"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_vinni2",
+        "story_43061827"
+      ],
+      "author": "vinni2",
+      "children": [
+        43063647,
+        43063760,
+        43063823,
+        43063942,
+        43064064,
+        43064111,
+        43064275,
+        43064444,
+        43064588,
+        43065065,
+        43065221,
+        43065323,
+        43065620,
+        43065965,
+        43066096,
+        43066244,
+        43066487,
+        43066604,
+        43066643,
+        43066985,
+        43067223,
+        43068408,
+        43069271,
+        43069798,
+        43070164,
+        43072128,
+        43072259,
+        43072926,
+        43074293,
+        43083061,
+        43083114
+      ],
+      "created_at": "2025-02-15T20:07:39Z",
+      "created_at_i": 1739650059,
+      "num_comments": 168,
+      "objectID": "43061827",
+      "points": 368,
+      "story_id": 43061827,
+      "title": "Perplexity Deep Research",
+      "updated_at": "2025-09-27T04:27:55Z",
+      "url": "https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "djoldman"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em>.ai prompt leakage"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://twitter.com/jmilldotdev/status/1600624362394091523"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_djoldman",
+        "story_34482318"
+      ],
+      "author": "djoldman",
+      "children": [
+        34492323,
+        34492497,
+        34492518,
+        34492564,
+        34492584,
+        34492607,
+        34492642,
+        34492825,
+        34492848,
+        34493324,
+        34493563,
+        34493718,
+        34493767,
+        34493845,
+        34494351,
+        34494471,
+        34494479,
+        34494735,
+        34494738,
+        34495038,
+        34495132,
+        34495221,
+        34495314,
+        34495981,
+        34497123,
+        34499997,
+        34501283,
+        34502474,
+        34503567,
+        34504052
+      ],
+      "created_at": "2023-01-22T21:16:11Z",
+      "created_at_i": 1674422171,
+      "num_comments": 155,
+      "objectID": "34482318",
+      "points": 332,
+      "story_id": 34482318,
+      "title": "Perplexity.ai prompt leakage",
+      "updated_at": "2025-10-30T00:01:25Z",
+      "url": "https://twitter.com/jmilldotdev/status/1600624362394091523"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "MaximilianEmel"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> Labs Playground"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://labs.<em>perplexity</em>.ai/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_MaximilianEmel",
+        "story_38698782"
+      ],
+      "author": "MaximilianEmel",
+      "children": [
+        38699429,
+        38699511,
+        38699538,
+        38699585,
+        38699596,
+        38699634,
+        38699661,
+        38699750,
+        38699794,
+        38699866,
+        38699982,
+        38700011,
+        38700100,
+        38700120,
+        38700217,
+        38700263,
+        38700285,
+        38700366,
+        38700367,
+        38700379,
+        38700398,
+        38700422,
+        38700433,
+        38700506,
+        38700529,
+        38700570,
+        38700651,
+        38700688,
+        38700713,
+        38700735,
+        38700761,
+        38700904,
+        38700970,
+        38700979,
+        38701044,
+        38701365,
+        38701618,
+        38701728,
+        38702121,
+        38702929,
+        38703037,
+        38703281,
+        38703386,
+        38703549,
+        38703592,
+        38703615,
+        38704164,
+        38704454,
+        38704463,
+        38704627,
+        38705675,
+        38705697,
+        38705713,
+        38705967,
+        38706481,
+        38706762,
+        38706909,
+        38707398,
+        38707778,
+        38709549
+      ],
+      "created_at": "2023-12-19T17:44:33Z",
+      "created_at_i": 1703007873,
+      "num_comments": 183,
+      "objectID": "38698782",
+      "points": 295,
+      "story_id": 38698782,
+      "title": "Perplexity Labs Playground",
+      "updated_at": "2025-10-06T20:35:49Z",
+      "url": "https://labs.perplexity.ai/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "felarof"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Hey HN, we're a YC startup building an open-source, privacy-first alternative to <em>Perplexity</em> Comet.<p>No invite system unlike bunch of others – you can download it today from our website or GitHub: <a href=\"https://github.com/browseros-ai/BrowserOS\">https://github.com/browseros-ai/BrowserOS</a><p>--- Why bother building an alternative? We believe browsers will become the new operating systems, where we offload much bunch of our work to AI agents. But these agents will have access to all your sensitive data – emails, docs, on top of your browser history. Open-source, privacy-first alternatives need to exist.<p>We're not a search or ad company, so no weird incentives. Your data stays on your machine. <i>You can use local LLMs with Ollama</i>. We also support BYOK (bring your own keys), so no $200/month plans.<p>Another big difference vs <em>Perplexity</em> Comet: our agent runs locally in your browser (not on their server). You can actually watch it click around and do stuff, which is pretty cool! Short demo here: <a href=\"https://bit.ly/browserOS-demo\" rel=\"nofollow\">https://bit.ly/browserOS-demo</a><p>--- How we built? We patch Chromium's C++ source code with our changes, so we have the same security as Google Chrome. We also have an auto-updater for security patches and regular updates.<p>Working with Chromium's 15M lines of C++ has been another fun adventure that I'm writing a blog post on. Cursor/VSCode breaks at this scale, so we're back to using grep to find stuff and make changes. Claude code works surprisingly well too.<p>Building the binary takes ~3 hours on our M4 Max MacBook.<p>--- Next? We're just 2 people with a lot of work ahead (Firefox started with 3 hackers, history rhymes!). But we strongly believe that a privacy-first browser with local LLM support is more important than ever – since agents will have access to so much sensitive data.<p>Looking forward to any and all comments!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Show HN: Open source alternative to <em>Perplexity</em> Comet"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.browseros.com/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_felarof",
+        "story_44523409",
+        "show_hn"
+      ],
+      "author": "felarof",
+      "children": [
+        44523410,
+        44524044,
+        44524170,
+        44524345,
+        44525500,
+        44525674,
+        44525755,
+        44526459,
+        44526961,
+        44526965,
+        44526983,
+        44527067,
+        44527117,
+        44527163,
+        44527426,
+        44527690,
+        44527968,
+        44527992,
+        44528366,
+        44528374,
+        44528502,
+        44529183,
+        44529227,
+        44529746,
+        44530596,
+        44530876,
+        44531006,
+        44533585,
+        44535381,
+        44536066,
+        44542475,
+        44545225,
+        44548069,
+        44614290,
+        44623197
+      ],
+      "created_at": "2025-07-10T17:33:07Z",
+      "created_at_i": 1752168787,
+      "num_comments": 122,
+      "objectID": "44523409",
+      "points": 291,
+      "story_id": 44523409,
+      "story_text": "Hey HN, we&#x27;re a YC startup building an open-source, privacy-first alternative to Perplexity Comet.<p>No invite system unlike bunch of others – you can download it today from our website or GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;browseros-ai&#x2F;BrowserOS\">https:&#x2F;&#x2F;github.com&#x2F;browseros-ai&#x2F;BrowserOS</a><p>--- Why bother building an alternative? We believe browsers will become the new operating systems, where we offload much bunch of our work to AI agents. But these agents will have access to all your sensitive data – emails, docs, on top of your browser history. Open-source, privacy-first alternatives need to exist.<p>We&#x27;re not a search or ad company, so no weird incentives. Your data stays on your machine. <i>You can use local LLMs with Ollama</i>. We also support BYOK (bring your own keys), so no $200&#x2F;month plans.<p>Another big difference vs Perplexity Comet: our agent runs locally in your browser (not on their server). You can actually watch it click around and do stuff, which is pretty cool! Short demo here: <a href=\"https:&#x2F;&#x2F;bit.ly&#x2F;browserOS-demo\" rel=\"nofollow\">https:&#x2F;&#x2F;bit.ly&#x2F;browserOS-demo</a><p>--- How we built? We patch Chromium&#x27;s C++ source code with our changes, so we have the same security as Google Chrome. We also have an auto-updater for security patches and regular updates.<p>Working with Chromium&#x27;s 15M lines of C++ has been another fun adventure that I&#x27;m writing a blog post on. Cursor&#x2F;VSCode breaks at this scale, so we&#x27;re back to using grep to find stuff and make changes. Claude code works surprisingly well too.<p>Building the binary takes ~3 hours on our M4 Max MacBook.<p>--- Next? We&#x27;re just 2 people with a lot of work ahead (Firefox started with 3 hackers, history rhymes!). But we strongly believe that a privacy-first browser with local LLM support is more important than ever – since agents will have access to so much sensitive data.<p>Looking forward to any and all comments!",
+      "title": "Show HN: Open source alternative to Perplexity Comet",
+      "updated_at": "2026-05-26T16:29:55Z",
+      "url": "https://www.browseros.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "welpandthen"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Google contract prevented Motorola from setting <em>Perplexity</em> as default assistant"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.bloomberg.com/news/articles/2025-04-23/<em>perplexity</em>-executive-says-google-blocked-motorola-s-use-of-ai-assistant"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_welpandthen",
+        "story_43776512"
+      ],
+      "author": "welpandthen",
+      "children": [
+        43776516,
+        43776544,
+        43776602,
+        43776641,
+        43776710,
+        43777023,
+        43777053,
+        43777217,
+        43777248,
+        43777405,
+        43777419,
+        43779137,
+        43779341,
+        43780786,
+        43782134,
+        43785803,
+        43787318
+      ],
+      "created_at": "2025-04-23T20:52:19Z",
+      "created_at_i": 1745441539,
+      "num_comments": 196,
+      "objectID": "43776512",
+      "points": 255,
+      "story_id": 43776512,
+      "title": "Google contract prevented Motorola from setting Perplexity as default assistant",
+      "updated_at": "2026-02-06T02:44:20Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "amrrs"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> got ads"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://twitter.com/damengchen/status/1875296442417607072"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_amrrs",
+        "story_42589863"
+      ],
+      "author": "amrrs",
+      "children": [
+        42589920,
+        42589932,
+        42589955,
+        42589981,
+        42590061,
+        42590080,
+        42590086,
+        42590110,
+        42590113,
+        42590153,
+        42590222,
+        42590352,
+        42590355,
+        42590367,
+        42590461,
+        42590857,
+        42592027,
+        42592030,
+        42592131,
+        42592169,
+        42592202,
+        42592350,
+        42592556,
+        42593205,
+        42593569,
+        42593785,
+        42593947,
+        42594129,
+        42594923,
+        42597851,
+        42599056,
+        42599330,
+        42681124
+      ],
+      "created_at": "2025-01-03T21:54:42Z",
+      "created_at_i": 1735941282,
+      "num_comments": 361,
+      "objectID": "42589863",
+      "points": 237,
+      "story_id": 42589863,
+      "title": "Perplexity got ads",
+      "updated_at": "2025-11-24T23:41:13Z",
+      "url": "https://twitter.com/damengchen/status/1875296442417607072"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "josephwegner"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Personal Computer by <em>Perplexity</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.<em>perplexity</em>.ai/personal-computer-waitlist"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_josephwegner",
+        "story_47339223"
+      ],
+      "author": "josephwegner",
+      "children": [
+        47340178,
+        47340897,
+        47341169,
+        47341182,
+        47341439,
+        47341607,
+        47341815,
+        47341816,
+        47341834,
+        47341858,
+        47342262,
+        47342475,
+        47342482,
+        47342519,
+        47342591,
+        47342686,
+        47342805,
+        47342831,
+        47342848,
+        47342857,
+        47342873,
+        47342932,
+        47342946,
+        47343093,
+        47343095,
+        47343096,
+        47343244,
+        47343303,
+        47343506,
+        47343612,
+        47343627,
+        47343682,
+        47343715,
+        47343727,
+        47343972,
+        47344299,
+        47344579,
+        47344688,
+        47344691,
+        47344716,
+        47344796,
+        47344990,
+        47345172,
+        47345654,
+        47345700,
+        47346095,
+        47346749,
+        47346836,
+        47346886,
+        47347195,
+        47348108,
+        47348465,
+        47348876,
+        47348959,
+        47349328,
+        47349488,
+        47349553,
+        47349919,
+        47350418,
+        47350531,
+        47351442,
+        47357399,
+        47359632,
+        47359751,
+        47407299,
+        47498035
+      ],
+      "created_at": "2026-03-11T18:22:21Z",
+      "created_at_i": 1773253341,
+      "num_comments": 173,
+      "objectID": "47339223",
+      "points": 223,
+      "story_id": 47339223,
+      "title": "Personal Computer by Perplexity",
+      "updated_at": "2026-06-23T23:28:46Z",
+      "url": "https://www.perplexity.ai/personal-computer-waitlist"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "aspenmayer"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Japan's largest paper, Yomiuri Shimbun, sues <em>Perplexity</em> for copyright violations"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-<em>perplexity</em>-for-copyright-violations/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_aspenmayer",
+        "story_44870895"
+      ],
+      "author": "aspenmayer",
+      "children": [
+        44870896,
+        44871147,
+        44871197,
+        44871274,
+        44871325,
+        44871346,
+        44871427,
+        44871674,
+        44872054,
+        44872109,
+        44872335,
+        44873469,
+        44874222,
+        44875337
+      ],
+      "created_at": "2025-08-12T00:07:09Z",
+      "created_at_i": 1754957229,
+      "num_comments": 93,
+      "objectID": "44870895",
+      "points": 199,
+      "story_id": 44870895,
+      "title": "Japan's largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations",
+      "updated_at": "2026-03-05T22:33:39Z",
+      "url": "https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "eduction"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> Makes Longshot $34.5B Offer for Chrome"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.wsj.com/tech/<em>perplexity</em>-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_eduction",
+        "story_44877656"
+      ],
+      "author": "eduction",
+      "children": [
+        44877763,
+        44877790,
+        44877796,
+        44877871,
+        44877873,
+        44877960,
+        44877979,
+        44878095,
+        44878106,
+        44878141,
+        44878229,
+        44878272,
+        44878343,
+        44878472,
+        44878525,
+        44878581,
+        44878642,
+        44878734,
+        44878736,
+        44878902,
+        44878919,
+        44878967,
+        44879537,
+        44880389,
+        44881001,
+        44882488
+      ],
+      "created_at": "2025-08-12T15:33:51Z",
+      "created_at_i": 1755012831,
+      "num_comments": 119,
+      "objectID": "44877656",
+      "points": 192,
+      "story_id": 44877656,
+      "title": "Perplexity Makes Longshot $34.5B Offer for Chrome",
+      "updated_at": "2026-03-05T22:34:08Z",
+      "url": "https://www.wsj.com/tech/perplexity-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jiayuanzhang"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Hi HN,<p>I am Jiayuan, and I'm here to introduce a tool we've been building over the past few months: Devv (<a href=\"https://devv.ai\" rel=\"nofollow\">https://devv.ai</a>). In simple terms, it is an AI-powered search engine specifically designed for developers.<p>Now, you might ask, with so many AI search engines already available—<em>Perplexity</em>, You.com, Phind, and several open-source projects—why do we need another one?<p>We all know that Generative Search Engines are built on RAG (Retrieval-Augmented Generation)[1] combined with Large Language Models (LLMs). Most of the products mentioned above use indexes from general search engines (like Google/Bing APIs), but we've taken a different approach.<p>We've created a vertical search index focused on the development domain, which includes:<p>- Documents: These are essentially the single source of truth for programming languages or libraries; I believe many of you are users of Dash (<a href=\"https://kapeli.com/dash\" rel=\"nofollow\">https://kapeli.com/dash</a>) or devdocs (<a href=\"https://devdocs.io/\" rel=\"nofollow\">https://devdocs.io/</a>).<p>- Code: While not natural language, code contains rich contextual information. If you have a question related to the Django framework, nothing is more convincing than code snippets from Django's repository.<p>- Web Search: We still use data from search engines because these results contain additional contextual information.<p>Our reasons for doing this include:<p>- The quality of the index is crucial to the RAG system; its effectiveness determines the output quality of the entire system.<p>- We focus more on the Index (RAG) rather than LLMs because LLMs evolve rapidly; even models performing well today may be superseded by better ones in a few months, and fine-tuning an LLM now has relatively low costs.<p>- All players are currently exploring what kind of LLM product works best; we hope to contribute some different insights ourselves (and plan to open source parts of our underlying infrastructure in return for contributions back into open source communities).<p>Some brief product features:<p>- Three modes: - Fast mode: Offers quick answers within seconds. - Agent mode: For complex queries where Devv Agent infers your question before selecting appropriate solutions. - GitHub mode(currently in beta): Links directly with your own GitHub repositories allowing inquiries about specific codebases.<p>- Clean &amp; intuitive UI/UX design.<p>- Currently only available as web version but Chrome extension &amp; VSCode plugin planned soon!<p>Technical details regarding how we build our Index:<p>- Documents section involves crawling most documentation sources using scripts inspired by devdocs project’s crawler logic then slicing them up according function/symbol dimensions before embedding into vector databases;<p>- Codes require special treatment beyond just embeddings alone hence why custom parsers were developed per language type extracting logical structures within repos such as architectural layouts calling relationships between functions definitions etc., semantically processed via LMM;<p>- Web searches combine both selfmade indices targeting developer niches alongside traditional API based methods. We crawled relevant sites including blogs forums tech news outlets etc..<p>For the Agent Mode, we have actually developed a multi-agent framework. It first categorizes the user's query and then selects different agents based on these categories to address the issues. These various agents employ different models and solution steps.<p>Future Plans:<p>- Build a more comprehensive index that includes internal context (The Devv for Teams version will support indexing team repositories, documents, issue trackers for Q&amp;A)<p>- Fully localized: All of the above technologies can be executed locally, ensuring privacy and security through complete localization.<p>Devv is still in its very early stages and can be used without logging in. We welcome everyone to experience it and provide feedback on any issues; we will continue to iterate on it.<p>[1]: <a href=\"https://arxiv.org/abs/2005.11401\" rel=\"nofollow\">https://arxiv.org/abs/2005.11401</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Show HN: I made a better <em>Perplexity</em> for developers"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://devv.ai"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jiayuanzhang",
+        "story_40299091",
+        "show_hn"
+      ],
+      "author": "jiayuanzhang",
+      "children": [
+        40299769,
+        40299784,
+        40299801,
+        40299817,
+        40299859,
+        40299862,
+        40299918,
+        40299988,
+        40300118,
+        40300280,
+        40300313,
+        40300341,
+        40300360,
+        40300366,
+        40300558,
+        40300629,
+        40300771,
+        40300874,
+        40300924,
+        40301120,
+        40301299,
+        40301862,
+        40301950,
+        40302461,
+        40304085,
+        40304263,
+        40309281,
+        40315256
+      ],
+      "created_at": "2024-05-08T15:19:40Z",
+      "created_at_i": 1715181580,
+      "num_comments": 75,
+      "objectID": "40299091",
+      "points": 185,
+      "story_id": 40299091,
+      "story_text": "Hi HN,<p>I am Jiayuan, and I&#x27;m here to introduce a tool we&#x27;ve been building over the past few months: Devv (<a href=\"https:&#x2F;&#x2F;devv.ai\" rel=\"nofollow\">https:&#x2F;&#x2F;devv.ai</a>). In simple terms, it is an AI-powered search engine specifically designed for developers.<p>Now, you might ask, with so many AI search engines already available—Perplexity, You.com, Phind, and several open-source projects—why do we need another one?<p>We all know that Generative Search Engines are built on RAG (Retrieval-Augmented Generation)[1] combined with Large Language Models (LLMs). Most of the products mentioned above use indexes from general search engines (like Google&#x2F;Bing APIs), but we&#x27;ve taken a different approach.<p>We&#x27;ve created a vertical search index focused on the development domain, which includes:<p>- Documents: These are essentially the single source of truth for programming languages or libraries; I believe many of you are users of Dash (<a href=\"https:&#x2F;&#x2F;kapeli.com&#x2F;dash\" rel=\"nofollow\">https:&#x2F;&#x2F;kapeli.com&#x2F;dash</a>) or devdocs (<a href=\"https:&#x2F;&#x2F;devdocs.io&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;devdocs.io&#x2F;</a>).<p>- Code: While not natural language, code contains rich contextual information. If you have a question related to the Django framework, nothing is more convincing than code snippets from Django&#x27;s repository.<p>- Web Search: We still use data from search engines because these results contain additional contextual information.<p>Our reasons for doing this include:<p>- The quality of the index is crucial to the RAG system; its effectiveness determines the output quality of the entire system.<p>- We focus more on the Index (RAG) rather than LLMs because LLMs evolve rapidly; even models performing well today may be superseded by better ones in a few months, and fine-tuning an LLM now has relatively low costs.<p>- All players are currently exploring what kind of LLM product works best; we hope to contribute some different insights ourselves (and plan to open source parts of our underlying infrastructure in return for contributions back into open source communities).<p>Some brief product features:<p>- Three modes: - Fast mode: Offers quick answers within seconds. - Agent mode: For complex queries where Devv Agent infers your question before selecting appropriate solutions. - GitHub mode(currently in beta): Links directly with your own GitHub repositories allowing inquiries about specific codebases.<p>- Clean &amp; intuitive UI&#x2F;UX design.<p>- Currently only available as web version but Chrome extension &amp; VSCode plugin planned soon!<p>Technical details regarding how we build our Index:<p>- Documents section involves crawling most documentation sources using scripts inspired by devdocs project’s crawler logic then slicing them up according function&#x2F;symbol dimensions before embedding into vector databases;<p>- Codes require special treatment beyond just embeddings alone hence why custom parsers were developed per language type extracting logical structures within repos such as architectural layouts calling relationships between functions definitions etc., semantically processed via LMM;<p>- Web searches combine both selfmade indices targeting developer niches alongside traditional API based methods. We crawled relevant sites including blogs forums tech news outlets etc..<p>For the Agent Mode, we have actually developed a multi-agent framework. It first categorizes the user&#x27;s query and then selects different agents based on these categories to address the issues. These various agents employ different models and solution steps.<p>Future Plans:<p>- Build a more comprehensive index that includes internal context (The Devv for Teams version will support indexing team repositories, documents, issue trackers for Q&amp;A)<p>- Fully localized: All of the above technologies can be executed locally, ensuring privacy and security through complete localization.<p>Devv is still in its very early stages and can be used without logging in. We welcome everyone to experience it and provide feedback on any issues; we will continue to iterate on it.<p>[1]: <a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2005.11401\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2005.11401</a>",
+      "title": "Show HN: I made a better Perplexity for developers",
+      "updated_at": "2025-03-17T23:27:01Z",
+      "url": "https://devv.ai"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "startages"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "I prompted ChatGPT, Claude, <em>Perplexity</em>, and Gemini and watched my Nginx logs"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_startages",
+        "story_47835646"
+      ],
+      "author": "startages",
+      "children": [
+        47835973,
+        47836231,
+        47836237,
+        47836273,
+        47836281,
+        47836298,
+        47836484,
+        47836642,
+        47836678,
+        47837994,
+        47839018,
+        47839350,
+        47839912
+      ],
+      "created_at": "2026-04-20T15:22:01Z",
+      "created_at_i": 1776698521,
+      "num_comments": 23,
+      "objectID": "47835646",
+      "points": 135,
+      "story_id": 47835646,
+      "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
+      "updated_at": "2026-07-18T04:28:14Z",
+      "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "flybird"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Building a Local <em>Perplexity</em> Alternative with Perplexica, Ollama, and SearXNG"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://jointerminus.medium.com/building-a-local-<em>perplexity</em>-alternative-with-perplexica-ollama-and-searxng-71602523e256"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_flybird",
+        "story_41125919"
+      ],
+      "author": "flybird",
+      "children": [
+        41126510,
+        41126517,
+        41126609,
+        41126675,
+        41126908,
+        41126996,
+        41127251,
+        41127793,
+        41128532,
+        41129689,
+        41130350
+      ],
+      "created_at": "2024-08-01T03:36:54Z",
+      "created_at_i": 1722483414,
+      "num_comments": 49,
+      "objectID": "41125919",
+      "points": 134,
+      "story_id": 41125919,
+      "title": "Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG",
+      "updated_at": "2025-10-06T20:30:28Z",
+      "url": "https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "the1024"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Hi HN! AI Product Rank lets you to search for topics and products, and see how OpenAI, Anthropic, and <em>Perplexity</em> rank them. You can also see the citations for each ranking.<p>We’re interested in seeing how AI decides to recommend products, especially now that they are actively searching the web. Now that we can retrieve citations by API, we can learn a bit more about what sources the various models use.<p>This is increasingly becoming important - Guillermo Rauch said that ChatGPT now refers ~5% of Vercel signups, which is up 5x over the last six months. [1]<p>It’s been fascinating to see the somewhat strange sources that the models pull from; one hypothesis is that most of the high quality sources have opted out of training data, leaving a pretty exotic long tail of citations. For example, a search for car brands yielded citations including Lux Mag and a class action filing against Chevy for batteries. [2]<p>We'd love for you to give it a try and let me know what you think! What other data would you want to see?<p>[1] <a href=\"https://x.com/rauchg/status/1898122330653835656\" rel=\"nofollow\">https://x.com/rauchg/status/1898122330653835656</a><p>[2] <a href=\"https://productrank.ai/topic/car-brands\" rel=\"nofollow\">https://productrank.ai/topic/car-brands</a>"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Show HN: Comparing product rankings by OpenAI, Anthropic, and <em>Perplexity</em>"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://productrank.ai/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_the1024",
+        "story_43632831",
+        "show_hn"
+      ],
+      "author": "the1024",
+      "children": [
+        43632844,
+        43633387,
+        43633430,
+        43633673,
+        43633886,
+        43635826,
+        43636408,
+        43636557,
+        43639486,
+        43640105,
+        43640488,
+        43640546,
+        43641424,
+        43641817,
+        43642127,
+        43642456,
+        43642597,
+        43643086
+      ],
+      "created_at": "2025-04-09T14:53:01Z",
+      "created_at_i": 1744210381,
+      "num_comments": 35,
+      "objectID": "43632831",
+      "points": 125,
+      "story_id": 43632831,
+      "story_text": "Hi HN! AI Product Rank lets you to search for topics and products, and see how OpenAI, Anthropic, and Perplexity rank them. You can also see the citations for each ranking.<p>We’re interested in seeing how AI decides to recommend products, especially now that they are actively searching the web. Now that we can retrieve citations by API, we can learn a bit more about what sources the various models use.<p>This is increasingly becoming important - Guillermo Rauch said that ChatGPT now refers ~5% of Vercel signups, which is up 5x over the last six months. [1]<p>It’s been fascinating to see the somewhat strange sources that the models pull from; one hypothesis is that most of the high quality sources have opted out of training data, leaving a pretty exotic long tail of citations. For example, a search for car brands yielded citations including Lux Mag and a class action filing against Chevy for batteries. [2]<p>We&#x27;d love for you to give it a try and let me know what you think! What other data would you want to see?<p>[1] <a href=\"https:&#x2F;&#x2F;x.com&#x2F;rauchg&#x2F;status&#x2F;1898122330653835656\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;rauchg&#x2F;status&#x2F;1898122330653835656</a><p>[2] <a href=\"https:&#x2F;&#x2F;productrank.ai&#x2F;topic&#x2F;car-brands\" rel=\"nofollow\">https:&#x2F;&#x2F;productrank.ai&#x2F;topic&#x2F;car-brands</a>",
+      "title": "Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity",
+      "updated_at": "2025-04-20T03:38:38Z",
+      "url": "https://productrank.ai/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ipster_io"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> AI submits bid to merge with TikTok"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://techcrunch.com/2025/01/18/<em>perplexity</em>-ai-submits-bid-to-merge-with-tiktok/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ipster_io",
+        "story_42751649"
+      ],
+      "author": "ipster_io",
+      "children": [
+        42751782,
+        42751863,
+        42751886,
+        42751903,
+        42751928,
+        42751962,
+        42751963,
+        42752022,
+        42752058,
+        42752093,
+        42752193,
+        42752223,
+        42752271,
+        42752311,
+        42752348,
+        42752374,
+        42752592,
+        42752752,
+        42752966,
+        42753012,
+        42753241,
+        42753270,
+        42753321,
+        42753386,
+        42753545,
+        42753710,
+        42753784,
+        42754051,
+        42755002
+      ],
+      "created_at": "2025-01-18T21:42:31Z",
+      "created_at_i": 1737236551,
+      "num_comments": 133,
+      "objectID": "42751649",
+      "points": 117,
+      "story_id": 42751649,
+      "title": "Perplexity AI submits bid to merge with TikTok",
+      "updated_at": "2025-11-21T07:44:45Z",
+      "url": "https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ddxv"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "The Trackers and SDKs in ChatGPT, Claude, Grok and <em>Perplexity</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-<em>perplexity</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ddxv",
+        "story_44142839"
+      ],
+      "author": "ddxv",
+      "children": [
+        44142840,
+        44146168,
+        44147602
+      ],
+      "created_at": "2025-05-31T08:23:51Z",
+      "created_at_i": 1748679831,
+      "num_comments": 15,
+      "objectID": "44142839",
+      "points": 111,
+      "story_id": 44142839,
+      "title": "The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity",
+      "updated_at": "2025-09-05T20:18:40Z",
+      "url": "https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "bshzzle"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Hi HN,<p>We’re Brendan and Michael, the creators of Sourcebot (<a href=\"https://www.sourcebot.dev/\" rel=\"nofollow\">https://www.sourcebot.dev/</a>), a self-hosted code understanding tool for large codebases. We originally launched on HN 9 months ago with code search (<a href=\"https://news.ycombinator.com/item?id=41711032\">https://news.ycombinator.com/item?id=41711032</a>), and we’re excited to share our newest feature: Ask Sourcebot.<p>Ask Sourcebot is an agentic search tool that lets you ask complex questions about your entire codebase in natural language, and returns a structured response with inline citations back to your code. Some types of questions you might ask:<p>- “How does authentication work in this codebase? What library is being used?  What providers can a user log in with?” (<a href=\"https://demo.sourcebot.dev/~/chat/cmdpjkrbw000bnn7s8of2dm11\" rel=\"nofollow\">https://demo.sourcebot.dev/~/chat/cmdpjkrbw000bnn7s8of2dm11</a>)<p>- “When should I use channels vs. mutexes in go? Find real usages of both and include them in your answer” (<a href=\"https://demo.sourcebot.dev/~/chat/cmdpiuqhu000bpg7s9hprio4w\" rel=\"nofollow\">https://demo.sourcebot.dev/~/chat/cmdpiuqhu000bpg7s9hprio4w</a>)<p>- “How are shards laid out in memory in the Zoekt code search engine?” (<a href=\"https://demo.sourcebot.dev/~/chat/cmdm9nkck000bod7sqy7c1efb\" rel=\"nofollow\">https://demo.sourcebot.dev/~/chat/cmdm9nkck000bod7sqy7c1efb</a>)<p>- &quot;How do I call C from Rust?&quot; (<a href=\"https://demo.sourcebot.dev/~/chat/cmdpjy06g000pnn7ssf4nk60k\" rel=\"nofollow\">https://demo.sourcebot.dev/~/chat/cmdpjy06g000pnn7ssf4nk60k</a>)<p>You can try it yourself here on our demo site (<a href=\"https://demo.sourcebot.dev/~\" rel=\"nofollow\">https://demo.sourcebot.dev/~</a>) or checkout our demo video (<a href=\"https://youtu.be/olc2lyUeB-Q\" rel=\"nofollow\">https://youtu.be/olc2lyUeB-Q</a>).<p>How is this any different from existing tools like Cursor or Claude code?<p>- Sourcebot solely focuses on <i>code understanding</i>. We believe that, more than ever, the main bottleneck development teams face is not writing code, it’s acquiring the necessary context to make quality changes that are cohesive within the wider codebase. This is true regardless if the author is a human or an LLM.<p>- As opposed to being in your IDE or terminal, Sourcebot is a web app. This allows us to play to the strengths of the web: rich UX and ubiquitous access. We put a ton of work into taking the best parts of IDEs (code navigation, file explorer, syntax highlighting) and packaging them with a custom UX (rich Markdown rendering, inline citations, @ mentions) that is easily shareable between team members.<p>- Sourcebot can maintain an up-to date index of thousands of repos hosted on GitHub, GitLab, Bitbucket, Gerrit, and other hosts. This allows you to ask questions about repositories without checking them out locally. This is especially helpful when ramping up on unfamiliar parts of the codebase or working with systems that are typically spread across multiple repositories, e.g., micro services.<p>- You can BYOK (Bring Your Own API Key) to any supported reasoning model. We currently support 11 different model providers (like Amazon Bedrock and Google Vertex), and plan to add more.<p>- Sourcebot is self-hosted, fair source, and free to use.<p>Under the hood, we expose our existing regular expression search, code navigation, and file reading APIs to a LLM as tool calls. We instruct the LLM via a system prompt to gather the necessary context via these tools to sufficiently answer the users question, and then to provide a concise, structured response. This includes inline citations, which are just structured data that the LLM can embed into it’s response and can then be identified on the client and rendered appropriately. We built this on some amazing libraries like the Vercel AI SDK v5, CodeMirror, react-markdown, and Slate.js, among others.<p>This architecture is intentionally simple. We decided not to introduce any additional techniques like vector embeddings, multi-agent graphs, etc. since we wanted to push the limits of what we could do with what we had on hand. We plan on revisiting our approach as we get user feedback on what works (and what doesn’t).<p>We are really excited about pushing the envelope of code understanding. Give it a try: <a href=\"https://github.com/sourcebot-dev/sourcebot\">https://github.com/sourcebot-dev/sourcebot</a>. Cheers!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Show HN: Sourcebot – Self-hosted <em>Perplexity</em> for your codebase"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_bshzzle",
+        "story_44734891",
+        "show_hn"
+      ],
+      "author": "bshzzle",
+      "children": [
+        44736583,
+        44749588,
+        44749950,
+        44750003,
+        44750391,
+        44750411,
+        44750769,
+        44750839,
+        44751100,
+        44755587,
+        44758098,
+        44759652,
+        44761544,
+        44773260
+      ],
+      "created_at": "2025-07-30T14:44:13Z",
+      "created_at_i": 1753886653,
+      "num_comments": 29,
+      "objectID": "44734891",
+      "points": 103,
+      "story_id": 44734891,
+      "story_text": "Hi HN,<p>We’re Brendan and Michael, the creators of Sourcebot (<a href=\"https:&#x2F;&#x2F;www.sourcebot.dev&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.sourcebot.dev&#x2F;</a>), a self-hosted code understanding tool for large codebases. We originally launched on HN 9 months ago with code search (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=41711032\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=41711032</a>), and we’re excited to share our newest feature: Ask Sourcebot.<p>Ask Sourcebot is an agentic search tool that lets you ask complex questions about your entire codebase in natural language, and returns a structured response with inline citations back to your code. Some types of questions you might ask:<p>- “How does authentication work in this codebase? What library is being used?  What providers can a user log in with?” (<a href=\"https:&#x2F;&#x2F;demo.sourcebot.dev&#x2F;~&#x2F;chat&#x2F;cmdpjkrbw000bnn7s8of2dm11\" rel=\"nofollow\">https:&#x2F;&#x2F;demo.sourcebot.dev&#x2F;~&#x2F;chat&#x2F;cmdpjkrbw000bnn7s8of2dm11</a>)<p>- “When should I use channels vs. mutexes in go? Find real usages of both and include them in your answer” (<a href=\"https:&#x2F;&#x2F;demo.sourcebot.dev&#x2F;~&#x2F;chat&#x2F;cmdpiuqhu000bpg7s9hprio4w\" rel=\"nofollow\">https:&#x2F;&#x2F;demo.sourcebot.dev&#x2F;~&#x2F;chat&#x2F;cmdpiuqhu000bpg7s9hprio4w</a>)<p>- “How are shards laid out in memory in the Zoekt code search engine?” (<a href=\"https:&#x2F;&#x2F;demo.sourcebot.dev&#x2F;~&#x2F;chat&#x2F;cmdm9nkck000bod7sqy7c1efb\" rel=\"nofollow\">https:&#x2F;&#x2F;demo.sourcebot.dev&#x2F;~&#x2F;chat&#x2F;cmdm9nkck000bod7sqy7c1efb</a>)<p>- &quot;How do I call C from Rust?&quot; (<a href=\"https:&#x2F;&#x2F;demo.sourcebot.dev&#x2F;~&#x2F;chat&#x2F;cmdpjy06g000pnn7ssf4nk60k\" rel=\"nofollow\">https:&#x2F;&#x2F;demo.sourcebot.dev&#x2F;~&#x2F;chat&#x2F;cmdpjy06g000pnn7ssf4nk60k</a>)<p>You can try it yourself here on our demo site (<a href=\"https:&#x2F;&#x2F;demo.sourcebot.dev&#x2F;~\" rel=\"nofollow\">https:&#x2F;&#x2F;demo.sourcebot.dev&#x2F;~</a>) or checkout our demo video (<a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;olc2lyUeB-Q\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;olc2lyUeB-Q</a>).<p>How is this any different from existing tools like Cursor or Claude code?<p>- Sourcebot solely focuses on <i>code understanding</i>. We believe that, more than ever, the main bottleneck development teams face is not writing code, it’s acquiring the necessary context to make quality changes that are cohesive within the wider codebase. This is true regardless if the author is a human or an LLM.<p>- As opposed to being in your IDE or terminal, Sourcebot is a web app. This allows us to play to the strengths of the web: rich UX and ubiquitous access. We put a ton of work into taking the best parts of IDEs (code navigation, file explorer, syntax highlighting) and packaging them with a custom UX (rich Markdown rendering, inline citations, @ mentions) that is easily shareable between team members.<p>- Sourcebot can maintain an up-to date index of thousands of repos hosted on GitHub, GitLab, Bitbucket, Gerrit, and other hosts. This allows you to ask questions about repositories without checking them out locally. This is especially helpful when ramping up on unfamiliar parts of the codebase or working with systems that are typically spread across multiple repositories, e.g., micro services.<p>- You can BYOK (Bring Your Own API Key) to any supported reasoning model. We currently support 11 different model providers (like Amazon Bedrock and Google Vertex), and plan to add more.<p>- Sourcebot is self-hosted, fair source, and free to use.<p>Under the hood, we expose our existing regular expression search, code navigation, and file reading APIs to a LLM as tool calls. We instruct the LLM via a system prompt to gather the necessary context via these tools to sufficiently answer the users question, and then to provide a concise, structured response. This includes inline citations, which are just structured data that the LLM can embed into it’s response and can then be identified on the client and rendered appropriately. We built this on some amazing libraries like the Vercel AI SDK v5, CodeMirror, react-markdown, and Slate.js, among others.<p>This architecture is intentionally simple. We decided not to introduce any additional techniques like vector embeddings, multi-agent graphs, etc. since we wanted to push the limits of what we could do with what we had on hand. We plan on revisiting our approach as we get user feedback on what works (and what doesn’t).<p>We are really excited about pushing the envelope of code understanding. Give it a try: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;sourcebot-dev&#x2F;sourcebot\">https:&#x2F;&#x2F;github.com&#x2F;sourcebot-dev&#x2F;sourcebot</a>. Cheers!",
+      "title": "Show HN: Sourcebot – Self-hosted Perplexity for your codebase",
+      "updated_at": "2026-02-21T18:00:36Z",
+      "url": "https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "monkeydust"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Amazon Demands <em>Perplexity</em> Stop AI Agent from Making Purchases"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.bloomberg.com/news/articles/2025-11-04/amazon-demands-<em>perplexity</em>-stop-ai-agent-from-making-purchases"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_monkeydust",
+        "story_45814461"
+      ],
+      "author": "monkeydust",
+      "children": [
+        45814645,
+        45814680,
+        45814776,
+        45815009,
+        45815103,
+        45815240,
+        45815556,
+        45815698,
+        45816366,
+        45816393,
+        45816769,
+        45816871,
+        45816974,
+        45817476,
+        45817558,
+        45817672,
+        45818095,
+        45818675,
+        45863958
+      ],
+      "created_at": "2025-11-04T18:43:11Z",
+      "created_at_i": 1762281791,
+      "num_comments": 71,
+      "objectID": "45814461",
+      "points": 98,
+      "story_id": 45814461,
+      "title": "Amazon Demands Perplexity Stop AI Agent from Making Purchases",
+      "updated_at": "2026-05-19T04:32:41Z",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-04/amazon-demands-perplexity-stop-ai-agent-from-making-purchases"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "drak0n1c"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Agentic Browser Security: Indirect Prompt Injection in <em>Perplexity</em> Comet"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://brave.com/blog/comet-prompt-injection/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_drak0n1c",
+        "story_45000894"
+      ],
+      "author": "drak0n1c",
+      "children": [
+        45001281,
+        45001295,
+        45001438,
+        45001586,
+        45002017,
+        45002634,
+        45003654,
+        45003669,
+        45006291,
+        45010988,
+        45033411
+      ],
+      "created_at": "2025-08-24T02:52:08Z",
+      "created_at_i": 1756003928,
+      "num_comments": 31,
+      "objectID": "45000894",
+      "points": 97,
+      "story_id": 45000894,
+      "title": "Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet",
+      "updated_at": "2026-03-05T22:29:05Z",
+      "url": "https://brave.com/blog/comet-prompt-injection/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "philip1209"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "As a founder, finding early customers is always a challenge. I'd come up with specific guesses for people to talk to - such &quot;VCs that used to be startup founders&quot; or &quot;Former lawyers who are now CTOs.&quot; Running those types of searches typically involves opening dozens of LinkedIn profiles in tabs, and looking at them one-by-one. And, it turns out that going through LinkedIn profiles one-by-one is a daily job for many people.<p>I started building Find AI to make it easier to search for people. I initially started just having GPT review people's LinkedIn profiles and websites, but it cost thousands of dollars per search (!). The product we're launching today can now run the same searches in seconds for pennies.<p>Find AI is <em>Perplexity</em>-style search over LinkedIn-type data. Ask vague questions, and the AI will go find and analyze people to get you matches.<p>The results are really impressive - here are some questions I've used:<p>- Find potential future founders by looking for tech company PMs who previously started a company<p>- Find potential chief science officers by looking for PhDs with industry experience who now work at a startup but have never founded a company before<p>- Find other founders who have a dog and might want my vet app product<p>The database currently consists of tech companies and people, but we're working to scale up to more people. The data is all first-party and retrieved from public sources.<p>Our first customers have been VCs, who are using Find AI to keep track of new AI companies. We just launched email alerts on searches, so you can get updates as new companies match your criteria.<p>Try it out and let me know what you think."
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Show HN: Find AI – <em>Perplexity</em> Meets LinkedIn"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://usefind.ai/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_philip1209",
+        "story_40801494",
+        "show_hn"
+      ],
+      "author": "philip1209",
+      "children": [
+        40801550,
+        40801591,
+        40802408,
+        40802491,
+        40802500,
+        40802529,
+        40802551,
+        40802554,
+        40803030,
+        40803201,
+        40803220,
+        40803445,
+        40803496,
+        40803820,
+        40803859,
+        40803999,
+        40804105,
+        40804171,
+        40804194,
+        40804304,
+        40804455,
+        40804525,
+        40804542,
+        40804750,
+        40804906,
+        40804915,
+        40804971,
+        40805291,
+        40808389,
+        40816181,
+        40821942
+      ],
+      "created_at": "2024-06-26T16:02:57Z",
+      "created_at_i": 1719417777,
+      "num_comments": 71,
+      "objectID": "40801494",
+      "points": 94,
+      "story_id": 40801494,
+      "story_text": "As a founder, finding early customers is always a challenge. I&#x27;d come up with specific guesses for people to talk to - such &quot;VCs that used to be startup founders&quot; or &quot;Former lawyers who are now CTOs.&quot; Running those types of searches typically involves opening dozens of LinkedIn profiles in tabs, and looking at them one-by-one. And, it turns out that going through LinkedIn profiles one-by-one is a daily job for many people.<p>I started building Find AI to make it easier to search for people. I initially started just having GPT review people&#x27;s LinkedIn profiles and websites, but it cost thousands of dollars per search (!). The product we&#x27;re launching today can now run the same searches in seconds for pennies.<p>Find AI is Perplexity-style search over LinkedIn-type data. Ask vague questions, and the AI will go find and analyze people to get you matches.<p>The results are really impressive - here are some questions I&#x27;ve used:<p>- Find potential future founders by looking for tech company PMs who previously started a company<p>- Find potential chief science officers by looking for PhDs with industry experience who now work at a startup but have never founded a company before<p>- Find other founders who have a dog and might want my vet app product<p>The database currently consists of tech companies and people, but we&#x27;re working to scale up to more people. The data is all first-party and retrieved from public sources.<p>Our first customers have been VCs, who are using Find AI to keep track of new AI companies. We just launched email alerts on searches, so you can get updates as new companies match your criteria.<p>Try it out and let me know what you think.",
+      "title": "Show HN: Find AI – Perplexity Meets LinkedIn",
+      "updated_at": "2025-10-05T22:52:13Z",
+      "url": "https://usefind.ai/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ndr"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "<em>Perplexity</em> offers to buy Google Chrome for $34.5B"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "https://www.theverge.com/news/758218/<em>perplexity</em>-google-chrome-bid-unsolicited-offer"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ndr",
+        "story_44885991"
+      ],
+      "author": "ndr",
+      "children": [
+        44886048,
+        44886272,
+        44886276,
+        44886360,
+        44886397,
+        44886505,
+        44886586,
+        44886656,
+        44886680,
+        44886727,
+        44886892,
+        44887296,
+        44887318,
+        44887468,
+        44887491,
+        44887554,
+        44887614,
+        44887691,
+        44887700,
+        44887755,
+        44887833,
+        44887860,
+        44887910,
+        44888039,
+        44888420,
+        44888868,
+        44889434
+      ],
+      "created_at": "2025-08-13T08:38:18Z",
+      "created_at_i": 1755074298,
+      "num_comments": 123,
+      "objectID": "44885991",
+      "points": 93,
+      "story_id": 44885991,
+      "title": "Perplexity offers to buy Google Chrome for $34.5B",
+      "updated_at": "2026-03-05T22:34:38Z",
+      "url": "https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jnnnthnn"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Hi HN!<p>I'm Jonathan and I built Ask Hacker Search (<a href=\"https://hackersearch.net/ask\" rel=\"nofollow\">https://hackersearch.net/ask</a>), an LLM-powered version of Hacker News' Ask HN.<p>Unlike Ask HN, Ask Hacker Search doesn't solicit new contributions from HN readers. Instead, it leverages Hacker News' historical data to answer questions, and offers LLM-generated summaries of those. I've used it for questions like &quot;Should I use Drizzle or Prisma?&quot; or &quot;What is a good screen capture that allows easy zooming effects on Mac?&quot;.<p>It is particularly useful when you're interested in understanding HN readers' sentiment about a topic, or when looking for expert insights on topics of interest to HN readers. I've been using it continually while building it, and have found it particularly useful to find software libraries recommended by HN or get quick vibe checks on hot topics.<p>This builds on my release of Hacker Search two weeks ago\n(<a href=\"https://news.ycombinator.com/item?id=40238509\">https://news.ycombinator.com/item?id=40238509</a>), which offered a semantic search engine over top HN submissions. It's not just a small upgrade: covering comments was the #1 requested feature after that launch, so I rebuilt the near entirety of the product to support that.<p>Please try it out and let me know what you think of it! I have to limit the number of LLM summaries each person can get for free, as this is entirely self-funded. If you hit the limit, you can subscribe for more summaries generated by a better model ($8/month), or bring your own compute by running inference on Ollama on your machine!"
+        },
+        "title": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "perplexity"
+          ],
+          "value": "Show HN: I built a LLM-powered Ask HN: like <em>Perplexity</em>, but for HN comments"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://hackersearch.net/ask"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jnnnthnn",
+        "story_40380738",
+        "show_hn"
+      ],
+      "author": "jnnnthnn",
+      "children": [
+        40381113,
+        40382149,
+        40384218,
+        40384235,
+        40384783,
+        40384810,
+        40385954,
+        40386639,
+        40386988,
+        40391173,
+        40393980,
+        40400459,
+        40404244,
+        40408934,
+        40409925
+      ],
+      "created_at": "2024-05-16T17:11:58Z",
+      "created_at_i": 1715879518,
+      "num_comments": 39,
+      "objectID": "40380738",
+      "points": 92,
+      "story_id": 40380738,
+      "story_text": "Hi HN!<p>I&#x27;m Jonathan and I built Ask Hacker Search (<a href=\"https:&#x2F;&#x2F;hackersearch.net&#x2F;ask\" rel=\"nofollow\">https:&#x2F;&#x2F;hackersearch.net&#x2F;ask</a>), an LLM-powered version of Hacker News&#x27; Ask HN.<p>Unlike Ask HN, Ask Hacker Search doesn&#x27;t solicit new contributions from HN readers. Instead, it leverages Hacker News&#x27; historical data to answer questions, and offers LLM-generated summaries of those. I&#x27;ve used it for questions like &quot;Should I use Drizzle or Prisma?&quot; or &quot;What is a good screen capture that allows easy zooming effects on Mac?&quot;.<p>It is particularly useful when you&#x27;re interested in understanding HN readers&#x27; sentiment about a topic, or when looking for expert insights on topics of interest to HN readers. I&#x27;ve been using it continually while building it, and have found it particularly useful to find software libraries recommended by HN or get quick vibe checks on hot topics.<p>This builds on my release of Hacker Search two weeks ago\n(<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=40238509\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=40238509</a>), which offered a semantic search engine over top HN submissions. It&#x27;s not just a small upgrade: covering comments was the #1 requested feature after that launch, so I rebuilt the near entirety of the product to support that.<p>Please try it out and let me know what you think of it! I have to limit the number of LLM summaries each person can get for free, as this is entirely self-funded. If you hit the limit, you can subscribe for more summaries generated by a better model ($8&#x2F;month), or bring your own compute by running inference on Ollama on your machine!",
+      "title": "Show HN: I built a LLM-powered Ask HN: like Perplexity, but for HN comments",
+      "updated_at": "2025-02-03T15:39:30Z",
+      "url": "https://hackersearch.net/ask"
+    }
+  ],
+  "hitsPerPage": 25,
+  "nbHits": 1133,
+  "nbPages": 40,
+  "page": 0,
+  "params": "query=Perplexity&tags=story&page=0&hitsPerPage=25&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 5,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 20
+    },
+    "afterFetch": {
+      "format": {
+        "highlighting": 1,
+        "total": 1
+      }
+    },
+    "fetch": {
+      "query": 2,
+      "total": 3
+    },
+    "total": 5
+  },
+  "query": "Perplexity",
+  "serverTimeMS": 7
+}
