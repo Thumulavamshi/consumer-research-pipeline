@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python main.py run)",
-      "Bash(python3 main.py run)"
-    ]
-  }
-}
