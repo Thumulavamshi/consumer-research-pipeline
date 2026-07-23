@@ -6,3 +6,10 @@ topics:
   - Google Gemini
   - Perplexity
   - Cursor
+
+crawler:
+  hits_per_page: 25
+  max_pages: 3
+  delay_seconds: 1.0
+
+raw_cache_dir: data/raw
