@@ -11,19 +11,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, Iterator, List, Tuple
 
-import yaml
+from . import utils
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_CONFIG_PATH = Path("config.yaml")
-DEFAULT_RAW_DIR = Path("data/raw")
-
 _PAGE_NUMBER_RE = re.compile(r"page_(\d+)\.json$")
-
-
-def load_config(config_path: Path = DEFAULT_CONFIG_PATH) -> Dict[str, Any]:
-    with open(config_path, "r", encoding="utf-8") as f:
-        return yaml.safe_load(f) or {}
 
 
 def _page_number(path: Path) -> int:
@@ -31,7 +23,7 @@ def _page_number(path: Path) -> int:
     return int(match.group(1)) if match else 0
 
 
-def iter_cached_pages(raw_dir: Path = DEFAULT_RAW_DIR) -> Iterator[Tuple[str, Dict[str, Any]]]:
+def iter_cached_pages(raw_dir: Path = utils.DEFAULT_RAW_DIR) -> Iterator[Tuple[str, Dict[str, Any]]]:
     """Yield (topic, page_payload) for every cached JSON page under raw_dir."""
     if not raw_dir.exists():
         return
@@ -46,7 +38,11 @@ def iter_cached_pages(raw_dir: Path = DEFAULT_RAW_DIR) -> Iterator[Tuple[str, Di
 
 
 def normalize_hit(topic: str, hit: Dict[str, Any]) -> Dict[str, Any]:
-    """Normalize a single raw Algolia hit into a standardized mentions record."""
+    """Normalize a single raw Algolia hit into a standardized mentions record.
+
+    `sentiment`, `sentiment_score`, and `category` are left unset here; the
+    classification stage fills them in after the record is stored.
+    """
     return {
         "id": hit.get("objectID"),
         "topic": topic,
@@ -63,7 +59,7 @@ def normalize_hit(topic: str, hit: Dict[str, Any]) -> Dict[str, Any]:
     }
 
 
-def parse_cached_records(raw_dir: Path = DEFAULT_RAW_DIR) -> List[Dict[str, Any]]:
+def parse_cached_records(raw_dir: Path = utils.DEFAULT_RAW_DIR) -> List[Dict[str, Any]]:
     """Read every cached raw page under raw_dir and return standardized records."""
     records: List[Dict[str, Any]] = []
 
@@ -79,14 +75,14 @@ def parse_cached_records(raw_dir: Path = DEFAULT_RAW_DIR) -> List[Dict[str, Any]
     return records
 
 
-def parse(config_path: Path = DEFAULT_CONFIG_PATH) -> List[Dict[str, Any]]:
+def parse(config_path: Path = utils.DEFAULT_CONFIG_PATH) -> List[Dict[str, Any]]:
     """Load raw_cache_dir from config and parse all cached records."""
-    config = load_config(config_path)
-    raw_dir = Path(config.get("raw_cache_dir", DEFAULT_RAW_DIR))
+    config = utils.load_config(config_path)
+    raw_dir = Path(config.get("raw_cache_dir", utils.DEFAULT_RAW_DIR))
     return parse_cached_records(raw_dir)
 
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
+    utils.setup_logging()
     results = parse()
     logger.info("Parse complete: %s total records", len(results))

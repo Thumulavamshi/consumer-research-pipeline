@@ -12,6 +12,8 @@ from sqlalchemy import Column, Float, MetaData, String, Table, create_engine, fu
 from sqlalchemy.dialects.sqlite import insert as sqlite_insert
 from sqlalchemy.engine import Engine
 
+from . import utils
+
 logger = logging.getLogger(__name__)
 
 DEFAULT_DB_PATH = Path("research.db")
@@ -134,6 +136,6 @@ def count_records(topic: Optional[str] = None, db_path: Path = DEFAULT_DB_PATH) 
 
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
+    utils.setup_logging()
     initialize()
     logger.info("Total records: %s", count_records())

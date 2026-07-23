@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List
 
-from . import database, parser
+from . import database, parser, utils
 
 logger = logging.getLogger(__name__)
 
@@ -159,5 +159,5 @@ def generate_summary(
 
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
+    utils.setup_logging()
     generate_summary()

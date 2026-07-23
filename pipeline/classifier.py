@@ -9,6 +9,8 @@ from typing import Any, Dict, List, Tuple
 
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
+from . import utils
+
 logger = logging.getLogger(__name__)
 
 _analyzer = SentimentIntensityAnalyzer()
@@ -105,7 +107,7 @@ def classify_records(records: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
+    utils.setup_logging()
     sample = {
         "title": "New pricing for Copilot enterprise plan announced",
         "text": "The new subscription is too expensive for small teams.",

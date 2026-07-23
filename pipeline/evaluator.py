@@ -12,7 +12,7 @@ from typing import Any, Dict, List, Optional
 
 import pandas as pd
 
-from . import database
+from . import database, utils
 
 logger = logging.getLogger(__name__)
 
@@ -224,7 +224,7 @@ def evaluate(
 if __name__ == "__main__":
     import sys
 
-    logging.basicConfig(level=logging.INFO)
+    utils.setup_logging()
 
     if len(sys.argv) > 1:
         evaluate(Path(sys.argv[1]))
