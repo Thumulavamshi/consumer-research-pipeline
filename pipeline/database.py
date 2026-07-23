@@ -72,6 +72,35 @@ def insert_records(records: List[Dict[str, Any]], db_path: Path = DEFAULT_DB_PAT
     return inserted
 
 
+def update_classification(records: List[Dict[str, Any]], db_path: Path = DEFAULT_DB_PATH) -> int:
+    """Update sentiment, sentiment_score, and category for existing records by id.
+
+    Returns the number of rows updated.
+    """
+    if not records:
+        return 0
+
+    engine = _get_engine(db_path)
+    updated = 0
+
+    with engine.begin() as conn:
+        for record in records:
+            stmt = (
+                mentions_table.update()
+                .where(mentions_table.c.id == record["id"])
+                .values(
+                    sentiment=record.get("sentiment"),
+                    sentiment_score=record.get("sentiment_score"),
+                    category=record.get("category"),
+                )
+            )
+            result = conn.execute(stmt)
+            updated += result.rowcount
+
+    logger.info("Updated classification for %s records", updated)
+    return updated
+
+
 def fetch_records(
     topic: Optional[str] = None,
     limit: Optional[int] = None,
