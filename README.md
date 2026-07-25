@@ -284,6 +284,10 @@ in any given 25-record sample. This is a deliberate scope tradeoff for a
 time-boxed assessment, not an oversight — a production version would
 stratify by predicted class too, or grow the sample size.
 
+**Actual Performance & Failure Analysis:** On the hand-labeled 25-record validation set, the classifier achieves **60.00% accuracy on sentiment** and **56.00% accuracy on category**. While simple deterministic classifiers are highly transparent and performant, the validation pass highlighted two main failure modes:
+- **Sentiment (VADER limit on implicit sentiment):** VADER struggles with domain-specific implicit sentiment that contains no explicit positive/negative words (e.g. *"NY Times sues Perplexity"* is negative but classified as Neutral; *"GPT-3 may be the biggest thing since Bitcoin"* is positive but classified as Neutral). Additionally, words like *"grand"* in *"Perplexity's grand theft AI"* throw VADER off, causing it to misclassify it as Positive.
+- **Category (Taxonomy definition ambiguity):** A large portion of category errors arose because the human validator labeled general corporate/legal/finance news (like lawsuits or confidential S-1 submissions to the SEC) under the "Enterprise" category, whereas the keyword rules explicitly define "Enterprise" in a narrower product-feature context (e.g., SSO, SOC 2, B2B compliance).
+
 ---
 
 ## Summary Output
@@ -548,26 +552,65 @@ python -m unittest discover tests
 }
 ```
 
-### `data/summary/evaluation.md` (example, after hand-labeling 25 records)
+### `data/summary/evaluation.md` (actual report output)
 
 ```markdown
+# Classification Evaluation
+
 ## Sentiment
 
 - Sample size: 25
-- Correct: 24
-- Accuracy: 96.00%
+- Correct: 15
+- Accuracy: 60.00%
 
 ### Confusion Matrix
 
 predicted  Negative  Neutral  Positive
-true
-Negative          4        1         0
-Neutral           0       15         0
-Positive          0        0         5
+true                                  
+Negative          4        2         3
+Neutral           0        9         0
+Positive          0        5         2
 
 ### Failure Examples
 
-- id=48364055 | true=Negative | predicted=Neutral | "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?"
+- id=23885684 | true=Positive | predicted=Neutral | "OpenAI's GPT-3 may be the biggest thing since Bitcoin"
+- id=46162265 | true=Negative | predicted=Neutral | "NY Times sues Perplexity over scraped content and false attribution"
+- id=41239859 | true=Positive | predicted=Neutral | "Google's Gemini Live AI Sounds So Human, I Almost Forgot It Was a Bot"
+- id=40819628 | true=Negative | predicted=Positive | "Perplexity's grand theft AI"
+- id=38214915 | true=Positive | predicted=Neutral | "Cursorless is alien magic from the future"
+- id=47165397 | true=Negative | predicted=Positive | "Anthropic ditches its core safety promise"
+- id=48663324 | true=Positive | predicted=Neutral | "OpenAI unveils its first custom chip, built by Broadcom"
+- id=43446659 | true=Positive | predicted=Neutral | "Show HN: We made an MCP server so Cursor can debug Node.js on its own"
+- id=39698141 | true=Negative | predicted=Neutral | "Adobe Firefly repeats the same AI blunders as Google Gemini"
+- id=34979981 | true=Negative | predicted=Positive | "OpenAI is now everything it promised not to be: closed-source and for-profit"
+
+## Category
+
+- Sample size: 25
+- Correct: 14
+- Accuracy: 56.00%
+
+### Confusion Matrix
+
+predicted         Coding Assistant  General AI
+true                                          
+Coding Assistant                 4           0
+Enterprise                       0           9
+General AI                       0          10
+Open Source                      1           1
+
+### Failure Examples
+
+- id=48364055 | true=Enterprise | predicted=General AI | "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?"
+- id=46162265 | true=Enterprise | predicted=General AI | "NY Times sues Perplexity over scraped content and false attribution"
+- id=48865019 | true=Enterprise | predicted=General AI | "Apple sues OpenAI, accuses ex-employees of stealing trade secrets"
+- id=40819628 | true=Enterprise | predicted=General AI | "Perplexity's grand theft AI"
+- id=48358646 | true=Enterprise | predicted=General AI | "Anthropic confidentially submits draft S-1 to the SEC"
+- id=44789681 | true=Enterprise | predicted=General AI | "Perplexity plagiarized our story about how Perplexity is a bullshit machine (2024)"
+- id=44127653 | true=Open Source | predicted=Coding Assistant | "Show HN: Onlook – Open-source, visual-first Cursor for designers"
+- id=39744752 | true=Enterprise | predicted=General AI | "Apple exploring a partnership with Google for Gemini-powered feature on iPhones"
+- id=48692995 | true=Enterprise | predicted=General AI | "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations"
+- id=34979981 | true=Open Source | predicted=General AI | "OpenAI is now everything it promised not to be: closed-source and for-profit"
 ```
 
 ---

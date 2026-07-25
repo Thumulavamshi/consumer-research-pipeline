@@ -45,6 +45,8 @@ CATEGORY_KEYWORDS: List[Tuple[str, List[str]]] = [
     ),
     (
         "Enterprise",
+        # NOTE: Targets product/feature enterprise aspects (e.g., compliance, SSO)
+        # rather than general corporate/business news (e.g., stock listings, mergers).
         ["enterprise", "b2b", "compliance", "soc 2", "sso", "on-premise", "on-premises", "corporate"],
     ),
     (

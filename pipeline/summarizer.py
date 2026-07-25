@@ -29,6 +29,18 @@ def _sentiment_breakdown(records: List[Dict[str, Any]]) -> Counter:
     return Counter(r.get("sentiment") or "Unclassified" for r in records)
 
 
+def _sentiment_breakdown_by_topic(records: List[Dict[str, Any]]) -> Dict[str, Counter]:
+    """Return a dictionary mapping each topic to a Counter of sentiments."""
+    by_topic: Dict[str, List[Dict[str, Any]]] = {}
+    for record in records:
+        by_topic.setdefault(record.get("topic", "Unknown"), []).append(record)
+
+    breakdown: Dict[str, Counter] = {}
+    for topic, topic_records in by_topic.items():
+        breakdown[topic] = Counter(r.get("sentiment") or "Unclassified" for r in topic_records)
+    return breakdown
+
+
 def _category_breakdown(records: List[Dict[str, Any]]) -> Counter:
     return Counter(r.get("category") or "Unclassified" for r in records)
 
@@ -108,23 +120,36 @@ def generate_summary(
     duplicate_count = _count_duplicates(db_path)
 
     sentiment_counts = _sentiment_breakdown(records)
+    sentiment_by_topic = _sentiment_breakdown_by_topic(records)
     category_counts = _category_breakdown(records)
     top_discussions = _top_discussions_by_topic(records)
     observations = _generate_observations(records)
+
+    total_crawled = total_records + duplicate_count
 
     lines: List[str] = [
         "# Consumer Research Pipeline Summary",
         "",
         f"- Run timestamp: {datetime.now(timezone.utc).isoformat()}",
-        f"- Total records: {total_records}",
+        f"- Total crawled (cached + fetched): {total_crawled}",
+        f"- Total stored (after de-duplication): {total_records}",
         f"- Duplicate count (skipped on insert): {duplicate_count}",
         "",
-        "## Sentiment Breakdown",
+        "## Sentiment Breakdown (Global)",
         "",
     ]
     for sentiment, count in sentiment_counts.most_common():
         lines.append(f"- {sentiment}: {count}")
     lines.append("")
+
+    lines.append("## Sentiment Breakdown per Topic")
+    lines.append("")
+    for topic in sorted(sentiment_by_topic.keys()):
+        lines.append(f"### {topic}")
+        lines.append("")
+        for sentiment, count in sentiment_by_topic[topic].most_common():
+            lines.append(f"- {sentiment}: {count}")
+        lines.append("")
 
     lines.append("## Category Counts")
     lines.append("")
